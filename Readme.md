@@ -47,7 +47,7 @@ red neuronal (MLP) en iteraciones previas — ver `notebooks/pipeline_completo_m
 - Nivel de riesgo derivado — vista de 2 categorías (Bajo / Atención): **85% precisión, 76% recall,
   92% accuracy**.
 - Nivel de riesgo derivado — vista de 3 categorías (Bajo/Medio/Alto, para dashboard visual): Alto
-  86% precisión, Bajo 94%, Medio 56% (categoría intermedia, ver interpretación).
+  86% precisión, Bajo 94%, Medio 56% .
 
 ## Interpretación
 Clasificar "brote sí/no" directamente con un umbral estadístico dio ~18-20% de precisión sin
