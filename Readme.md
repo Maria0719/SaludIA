@@ -1,80 +1,47 @@
-# Predicción de Brotes de Dengue y Malaria en Colombia
+# SaludIA - Fase 4: Motor de Alertas
 
-## Problema abordado
-Colombia carece de un sistema accesible que anticipe brotes de enfermedades transmisibles
-(Dengue, Malaria) a nivel municipal usando datos abiertos. La vigilancia epidemiológica actual es
-mayormente reactiva: se actúa después de que el brote ya es evidente en las cifras de morbilidad.
+Proyecto trabajado por Nicolás.
 
-## Justificación (valor público)
-Un sistema de alerta temprana permite a las autoridades de salud reforzar vigilancia y recursos
-*antes* de que un brote escale, en vez de responder después del hecho. Esto es exactamente el
-impacto que busca el reto: *"mejora en la prevención y respuesta temprana del sistema de salud"*.
+## Qué hice yo
+Construí la Fase 4 del proyecto: un motor de alertas que une las predicciones de Kevin con el índice de vulnerabilidad de Majo para producir una alerta final por municipio y enfermedad.
 
-## Cantidad de datasets utilizados
-4 fuentes de datos abiertas, integradas en un solo dataset maestro (ver `docs/fuentes_datos.md`
-para el detalle completo de cada una, incluyendo enlaces exactos).
+La lógica quedó así:
+- Se toma el snapshot de predicciones ya generado por Kevin.
+- Se cruza con el índice de vulnerabilidad por `cod_mpio`.
+- Se clasifica `casos_predichos` con el Esquema aprobado por enfermedad.
+- Se aplica la matriz de semáforo.
+- Se genera una explicación natural para cada fila.
+- Se guarda el resultado final en `alertas/salidas/alertas_finales.csv`.
 
-## Dataset utilizado (datos.gov.co)
-- **DIVIPOLA — Códigos municipios**: https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w
-- **Calidad del Aire en Colombia (Promedio Anual)**: https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Calidad-Del-Aire-En-Colombia-Promedio-Anual-/kekd-7v7h/about_data
+## Archivos de mi fase
+- `alertas/generar_alertas.py`: script principal y reproducible. Lee el snapshot de Kevin, hace el merge con vulnerabilidad, clasifica, aplica el semáforo, genera la explicación y escribe el CSV final.
+- `alertas/generar_snapshot_kevin.py`: archivo de referencia para documentar cómo se obtuvo el snapshot de Kevin si alguna vez hay que regenerarlo.
+- `alertas/entradas/predicciones_kevin_snapshot.csv`: snapshot intermedio con las predicciones alineadas por municipio y enfermedad.
+- `vulnerabilidad/salidas/indice_vulnerabilidad.csv`: salida de la fase de vulnerabilidad que se usa para el cruce.
+- `alertas/salidas/alertas_finales.csv`: salida definitiva del motor de alertas.
+- `.gitignore`: excluye el entorno virtual y archivos temporales de Python.
 
-## Dataset utilizado — externos
-- **Casos de Dengue/Malaria por municipio-semana** (2018, 2019, 2021) — fuente original del reto.
-- **Proyecciones de población municipal** (DANE, descarga manual — su sitio bloquea descargas
-  automatizadas, documentado en `docs/fuentes_datos.md`).
+## Cómo reproducir mi resultado
+1. Tener listo `alertas/entradas/predicciones_kevin_snapshot.csv`.
+2. Ejecutar:
 
-## Variables seleccionadas
-`casos`, `poblacion`, `tasa_incidencia_100k`, variables de calidad del aire/clima
-(`pm25_promedio`, `precipitacion_promedio`, `temperatura_promedio`, entre otras), y variables
-derivadas por ingeniería de features: rezagos temporales (`casos_lag1-4`), canal endémico
-(`rolling_mean_4/8`, `rolling_std_4/8`), tendencia y promedio histórico. Detalle completo de cada
-columna en `docs/diccionario_datos.md`.
+```bash
+python alertas/generar_alertas.py
+```
 
-## Tipo de análisis
-**Predictivo — Regresión** (no clasificación binaria). Se predice el número de casos esperados por
-municipio-enfermedad-semana; el nivel de riesgo (Bajo/Medio/Alto) se deriva de esa predicción. La
-justificación de por qué se prefirió regresión sobre clasificación binaria está en
-`docs/marco_metodologico.md` — es el hallazgo metodológico central del proyecto.
+3. Revisar el archivo final en `alertas/salidas/alertas_finales.csv`.
 
-## Modelo utilizado
-**Random Forest Regressor** (scikit-learn), con validación cruzada temporal (`TimeSeriesSplit`) y
-afinación de hiperparámetros (`RandomizedSearchCV`). Se comparó contra HistGradientBoosting y una
-red neuronal (MLP) en iteraciones previas — ver `notebooks/pipeline_completo_modelo_v5.ipynb`.
+## Qué contiene el CSV final
+El archivo final tiene estas columnas:
 
-## Resultados clave
-- **R² = 0.876** en el set de prueba (2021, año nunca visto por el modelo).
-- **MAE = 2.92 casos** por municipio-semana.
-- Nivel de riesgo derivado — vista de 2 categorías (Bajo / Atención): **85% precisión, 76% recall,
-  92% accuracy**.
-- Nivel de riesgo derivado — vista de 3 categorías (Bajo/Medio/Alto, para dashboard visual): Alto
-  86% precisión, Bajo 94%, Medio 56% .
+- `cod_mpio`
+- `municipio`
+- `enfermedad`
+- `casos_predichos`
+- `indice_vulnerabilidad`
+- `vulnerabilidad`
+- `nivel_alerta`
+- `explicacion`
 
-## Interpretación
-Clasificar "brote sí/no" directamente con un umbral estadístico dio ~18-20% de precisión sin
-importar cuánto se afinara el modelo — el problema no era el modelo ni los datos, era la pregunta:
-un umbral binario sobre un evento raro descarta la mayoría de la información disponible.
-Reformulando como regresión (predecir la magnitud) y derivando el riesgo después, se recupera esa
-información y la precisión sube a >85%. La categoría "Medio" en la vista de 3 niveles es más débil
-por diseño (banda angosta de solo 13 casos frente a un margen de error del modelo de ~3 casos) — se
-resuelve ofreciendo ambas vistas según el uso (ver `docs/conclusiones.md`).
-
-## Impacto potencial
-Un sistema desplegado con este modelo permitiría a un ente de salud pública departamental o
-municipal monitorear el riesgo semanal de Dengue/Malaria por municipio, con una confiabilidad del
-~85-92% en la detección de semanas de alto riesgo, sin necesidad de infraestructura de vigilancia
-adicional a la ya reportada por el sistema de salud.
-
-## Solución en Producción (Demo en Vivo)
-`[PENDIENTE]` — el backend y frontend todavía no están construidos. La arquitectura propuesta está
-documentada en `docs/architecture.md`. Cuando exista despliegue, esta sección debe incluir:
-
-**Aplicación Web / Producción:** [PENDIENTE]
-**Contenedor listo (Docker Hub):** [PENDIENTE] *(o borrar si no aplica)*
-**Documentación de la API:** [PENDIENTE] *(o borrar si no aplica)*
-
-## Enlaces de acceso
-`[PENDIENTE]` — falta generar `Recursos/Presentacion.pptx` y su PDF. Cuando existan:
-
-*   [Descargar archivo original (.PPTX)](Recursos/Presentacion.pptx) — *Para abrir y editar en PowerPoint.*
-*   [Ver presentación en línea (.PDF)](Recursos/presentacion.pdf) — *Abre el visor interactivo de GitHub/GitLab.*
-*   [Descarga directa (.PDF)](Recursos/presentacion.pdf?raw=true&inline=false) — *Fuerza la descarga.*
+## Nota
+Los cortes de clasificación del Esquema fueron una decisión manual basada en la distribución observada en el set de prueba 2021. No son un estándar clínico; se usaron para construir una salida operativa y consistente.
