@@ -101,12 +101,6 @@ No ejecuta ni reentrena nada. Es un archivo de referencia que documenta cómo se
 
 Análisis exploratorio de datos. Genera los gráficos de `eda/graficos/` (serie temporal, top municipios, distribución de la tasa, estacionalidad, correlación con clima) que respaldan las decisiones del modelo.
 
----
-
-*(Continúa en la Parte 2: Backend, y Parte 3: Frontend y Docker.)*
-
----
-
 # PARTE 2 — Backend (`backend/`)
 
 El backend es una API **FastAPI**. Su principio de diseño: cargar todo una sola vez al arrancar y no recalcular nada por request. Sirve la API y, en producción, también el frontend compilado, en el mismo puerto.
