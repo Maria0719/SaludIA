@@ -38,6 +38,7 @@
 html {
   background: var(--bg);
   font-size: 135%;
+  overflow-x: hidden;
 }
 
 * {
@@ -54,6 +55,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 a {
@@ -747,6 +749,29 @@ table.data-table tbody tr:hover {
   border-radius: 12px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow-sm);
+}
+/* En pantallas angostas la leyenda flotante tapa buena parte del mapa (poco
+   espacio) y además queda encima de los popups de departamento. Se acomoda
+   como una barra normal arriba del mapa en vez de flotar sobre él. */
+@media (max-width: 640px) {
+  .map-legend {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 14px;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    box-shadow: none;
+  }
+  .map-legend h4 {
+    width: 100%;
+    margin: 0 0 4px;
+  }
+  .map-legend__row {
+    margin-top: 0;
+  }
 }
 .map-legend h4 {
   font-size: 0.75rem;
