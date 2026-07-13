@@ -43,7 +43,7 @@ root.innerHTML = `
   </div>
 
   <div class="card">
-    <div class="table-wrap">
+    <div class="table-wrap table-wrap--scrollhint">
       <table class="data-table">
         <thead>
           <tr>
