@@ -8,9 +8,16 @@ import {
   departmentMunicipalities,
   findingsSummary,
 } from "../data.js";
-import Chart from "chart.js/auto";
 
 renderLayout();
+
+let Chart = null;
+try {
+  const chartModule = await import("https://cdn.jsdelivr.net/npm/chart.js@4.5.1/auto/+esm");
+  Chart = chartModule.default;
+} catch {
+  Chart = null;
+}
 
 // Read municipality / disease from the URL so clicking a department elsewhere
 // (map or data explorer) deep-links straight into its weekly prediction.
@@ -132,6 +139,13 @@ const ROSE = "#e11d48";
 const SLATE = "#334155";
 
 function makeLineChart(id, labels, data, label, color, fill = true) {
+  if (!Chart) {
+    const container = document.getElementById(id)?.parentElement;
+    if (container) {
+      container.innerHTML = '<div class="chart-fallback">Gráficos no disponibles</div>';
+    }
+    return;
+  }
   if (detailCharts[id]) detailCharts[id].destroy();
   const ctx = document.getElementById(id);
   detailCharts[id] = new Chart(ctx, {
@@ -189,6 +203,14 @@ function renderDetail() {
   // Population comparison across municipalities in the same department.
   const munObj = MUNICIPALITIES.find((m) => m.name === mun);
   const peers = departmentMunicipalities(munObj.dep);
+  if (!Chart) {
+    const popContainer = document.getElementById("chart-pop")?.parentElement;
+    if (popContainer) {
+      popContainer.innerHTML = '<div class="chart-fallback">Gráficos no disponibles</div>';
+    }
+    renderFindings();
+    return;
+  }
   if (detailCharts["chart-pop"]) detailCharts["chart-pop"].destroy();
   detailCharts["chart-pop"] = new Chart(document.getElementById("chart-pop"), {
     type: "bar",
@@ -291,6 +313,15 @@ function render() {
   const labels = rows.map((r) => r.week);
   const actual = rows.map((r) => r.actual);
   const predicted = rows.map((r) => r.predicted);
+
+  if (!Chart) {
+    const predContainer = document.getElementById("pred-chart")?.parentElement;
+    if (predContainer) {
+      predContainer.innerHTML = '<div class="chart-fallback">Gráficos no disponibles</div>';
+    }
+    renderDetail();
+    return;
+  }
 
   if (chart) chart.destroy();
   const ctx = document.getElementById("pred-chart");

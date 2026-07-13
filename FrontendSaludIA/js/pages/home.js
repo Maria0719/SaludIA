@@ -39,7 +39,13 @@ document.getElementById("home-root").innerHTML = `
 
   <section class="stat-band">
     <div class="stat-band__icon stat-band__icon--map">
-      <img src="/colombia.png" alt="Mapa de Colombia" width="52" height="52" />
+      <img
+        src="/colombia.png"
+        alt="Mapa de Colombia"
+        width="52"
+        height="52"
+        onerror="this.onerror=null; this.src='public/colombia.png';"
+      />
     </div>
     <h2 class="stat-band__num">${MUNICIPALITIES.length * 28 + 15} Municipios estudiados</h2>
     <p class="stat-band__sub">
