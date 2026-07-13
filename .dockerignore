@@ -1,0 +1,15 @@
+# No metas cosas pesadas o innecesarias dentro de la imagen
+**/node_modules
+**/dist
+frontend/dist
+.git
+**/__pycache__
+*.pyc
+*.log
+*.xlsx
+backend/.env
+# Carpetas de SaludIA que el backend NO necesita para correr
+SaludIA/notebooks/
+SaludIA/eda/
+SaludIA/docs/
+SaludIA/Recursos/

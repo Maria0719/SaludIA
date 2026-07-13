@@ -117,3 +117,11 @@ def datos(
 ):
     filas, total = _store(app).datos(dpto=dpto, enfermedad=enfermedad, anio=anio, q=q, page=page, per_page=per_page)
     return {"filas": filas, "total": total, "page": page, "per_page": per_page}
+
+# --- Servir el frontend compilado en el mismo puerto que la API ---
+from pathlib import Path as _Path
+from fastapi.staticfiles import StaticFiles as _StaticFiles
+
+_FRONTEND_DIST = _Path(__file__).resolve().parents[1] / "frontend_dist"
+if _FRONTEND_DIST.exists():
+    app.mount("/", _StaticFiles(directory=_FRONTEND_DIST, html=True), name="frontend")

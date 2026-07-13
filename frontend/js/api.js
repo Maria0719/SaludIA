@@ -3,7 +3,8 @@
 // el modelo entrenado, el índice de vulnerabilidad y el motor de alertas).
 // ============================================================
 
-export const API_BASE_URL = "http://localhost:8000";
+export const API_BASE_URL =
+  location.port === "5173" ? "http://localhost:8000" : location.origin;
 
 async function get(path, params = {}) {
   const url = new URL(API_BASE_URL + path);
