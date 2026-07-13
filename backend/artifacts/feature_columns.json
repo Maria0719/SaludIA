@@ -1,0 +1,16 @@
+[
+  "casos_lag1",
+  "casos_lag2",
+  "casos_lag3",
+  "casos_lag4",
+  "rolling_mean_4",
+  "rolling_std_4",
+  "rolling_mean_8",
+  "rolling_std_8",
+  "tendencia",
+  "promedio_historico",
+  "semana_sin",
+  "semana_cos",
+  "log_poblacion",
+  "enfermedad_cod"
+]

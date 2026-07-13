@@ -1,0 +1,378 @@
+
+> saludia@1.0.0 dev C:\Users\Kevin\Videos\nuevo salud\frontend
+> vite
+
+
+  [32m[1mVITE[22m v8.1.4[39m  [2mready in [0m[1m611[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.5:[1m5173[22m/[39m
+[2m9:37:47 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/dashboard.js[22m
+[2m9:38:22 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mTypeError[22m: Failed to fetch
+[39m > get js/api.js:13:21
+    11 |      if (value !== undefined && value !== null && value !== "") url.searchParams.set(key, value);
+    12 |    });
+    13 |    const res = await fetch(url);
+       |                       ^
+    14 |    if (!res.ok) throw new Error(`${url.pathname} respondió ${res.status}`);
+    15 |    return res.json();
+ > getMunicipios js/api.js:19:10
+ > js/pages/home.js:7:26
+
+[2m9:44:16 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m9:44:16 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:221:47
+    219 |  
+    220 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+    221 |    else document.getElementById("chart-precip").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambie...
+        |                                                 ^
+    222 |  
+    223 |    makeLineChart("chart-cases", weekLabels, casos2021, "Casos", ROSE);
+ > render js/pages/prediction.js:403:3
+
+[2m9:49:17 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/anomalies.js[22m
+[2m9:49:35 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/css/styles.css?direct[22m
+[2m10:02:29 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/layout.js[22m
+[2m10:02:37 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mseir.html[22m
+[2m10:02:37 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/seir.js[22m
+[2m10:02:52 p. m.[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m10:02:52 p. m.[22m [36m[1m[vite][22m[39m server restarted.
+[2m10:03:03 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/methodology.js[22m
+[2m10:05:42 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/icons.js[22m
+[2m10:08:39 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:08:39 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:08:45 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:08:45 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'id')
+[39m > new Oe ../../../../../npm/chart.js@4.5.1/auto/+esm:7:113102
+ > makeLineChart js/pages/prediction.js:180:22
+    178 |    if (detailCharts[id]) detailCharts[id].destroy();
+    179 |    const ctx = document.getElementById(id);
+    180 |    detailCharts[id] = new Chart(ctx, {
+        |                        ^
+    181 |      type: "line",
+    182 |      data: {
+ > renderDetail js/pages/prediction.js:228:16
+ > render js/pages/prediction.js:447:3
+
+[2m10:08:48 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js:389:42
+    387 |      document.getElementById("gauge").innerHTML =
+    388 |        '<p class="muted">No hay predicción disponible para este municipio y enfermedad (sin historial suficiente).</p>';
+    389 |      document.getElementById("pred-chart").parentElement.innerHTML = "";
+        |                                            ^
+    390 |      return;
+    391 |    }
+
+[2m10:08:57 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:09:04 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js:389:42
+    387 |      document.getElementById("gauge").innerHTML =
+    388 |        '<p class="muted">No hay predicción disponible para este municipio y enfermedad (sin historial suficiente).</p>';
+    389 |      document.getElementById("pred-chart").parentElement.innerHTML = "";
+        |                                            ^
+    390 |      return;
+    391 |    }
+
+[2m10:09:06 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:09:06 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:09:08 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js:389:42
+    387 |      document.getElementById("gauge").innerHTML =
+    388 |        '<p class="muted">No hay predicción disponible para este municipio y enfermedad (sin historial suficiente).</p>';
+    389 |      document.getElementById("pred-chart").parentElement.innerHTML = "";
+        |                                            ^
+    390 |      return;
+    391 |    }
+
+[2m10:09:14 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js:389:42
+    387 |      document.getElementById("gauge").innerHTML =
+    388 |        '<p class="muted">No hay predicción disponible para este municipio y enfermedad (sin historial suficiente).</p>';
+    389 |      document.getElementById("pred-chart").parentElement.innerHTML = "";
+        |                                            ^
+    390 |      return;
+    391 |    }
+
+[2m10:09:16 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js:389:42
+    387 |      document.getElementById("gauge").innerHTML =
+    388 |        '<p class="muted">No hay predicción disponible para este municipio y enfermedad (sin historial suficiente).</p>';
+    389 |      document.getElementById("pred-chart").parentElement.innerHTML = "";
+        |                                            ^
+    390 |      return;
+    391 |    }
+
+[2m10:09:18 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:09:18 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:11:21 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:11:23 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:11:25 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:11:28 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js:229:45
+    227 |  
+    228 |    if (hayTemp) makeLineChart("chart-temp", weekLabels, temps, "Temperatura (°C)", AMBER);
+    229 |    else document.getElementById("chart-temp").parentElement.innerHTML = '<div class="chart-fallback">Sin datos ambient...
+        |                                               ^
+    230 |  
+    231 |    if (hayPrecip) makeLineChart("chart-precip", weekLabels, precips, "Precipitación (mm)", TEAL);
+ > render js/pages/prediction.js:447:3
+
+[2m10:11:38 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: /api/datos respondió 422
+[39m > get js/api.js:14:22
+    12 |    });
+    13 |    const res = await fetch(url);
+    14 |    if (!res.ok) throw new Error(`${url.pathname} respondió ${res.status}`);
+       |                        ^
+    15 |    return res.json();
+    16 |  }
+ > HTMLButtonElement.<anonymous> js/pages/data.js:162:21
+
+[2m10:11:41 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: /api/datos respondió 422
+[39m > get js/api.js:14:22
+    12 |    });
+    13 |    const res = await fetch(url);
+    14 |    if (!res.ok) throw new Error(`${url.pathname} respondió ${res.status}`);
+       |                        ^
+    15 |    return res.json();
+    16 |  }
+ > HTMLButtonElement.<anonymous> js/pages/data.js:162:21
+
+[2m10:16:22 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m10:16:30 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m10:16:43 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m10:17:56 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:17:56 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'id')
+[39m > new Oe ../../../../../npm/chart.js@4.5.1/auto/+esm:7:113102
+ > makeLineChart js/pages/prediction.js?t=1783912603778:201:22
+ > renderDetail js/pages/prediction.js?t=1783912603778:252:18
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:17:58 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:19:33 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:19:36 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:19:36 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:253:47
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:19:48 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:20:08 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/css/styles.css?direct[22m
+[2m10:20:57 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:20:59 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:20:59 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:21:01 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:21:01 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:21:05 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:21:05 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:21:06 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:21:06 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:21:10 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:21:10 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:21:34 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > render js/pages/prediction.js?t=1783912603778:410:42
+
+[2m10:21:36 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m10:22:47 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:22:48 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:22:52 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:22:54 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:22:56 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mTypeError[22m: Cannot read properties of null (reading 'parentElement')
+[39m > renderDetail js/pages/prediction.js?t=1783912603778:250:45
+ > render js/pages/prediction.js?t=1783912603778:468:3
+
+[2m10:29:53 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m10:30:07 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m10:52:44 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/api.js[22m
+[2m10:52:54 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/icons.js[22m
+[2m10:53:44 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/layout.js[22m
+[2m10:53:49 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/layout.js[22m
+[2m10:54:13 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/css/styles.css?direct[22m
+[2m10:55:24 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/chatbot.js[22m
+[2m10:59:46 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/css/styles.css?direct[22m
+[2m11:00:51 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:00:51 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783914924623:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783914924623:473:5)
+[2m11:04:49 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:06:35 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:06:35 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:253:47)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:06:37 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:16 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:18 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:18 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:20 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:20 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:22 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:22 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:23 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:23 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:27 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:27 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:28 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:08:28 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:42 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:08:44 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:12 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:09:12 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:19 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:09:19 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:23 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:09:23 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:27 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:09:27 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:34 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:36 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:37 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:09:43 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:09:43 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot read properties of null (reading 'parentElement')
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915489890:250:45)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915489890:483:5)
+[2m11:10:48 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to create chart: can't acquire context from the given item
+[2m11:11:35 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:11:45 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:11:57 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:11:58 p. m.[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mNo se pudieron cargar las variables/hallazgos del municipio: TypeError: Cannot set properties of null (setting 'innerHTML')
+    at resetCanvas (http://localhost:5173/js/pages/prediction.js?t=1783915917440:199:18)
+    at makeLineChart (http://localhost:5173/js/pages/prediction.js?t=1783915917440:212:15)
+    at renderDetail (http://localhost:5173/js/pages/prediction.js?t=1783915917440:261:16)
+    at render (http://localhost:5173/js/pages/prediction.js?t=1783915917440:495:5)
+[2m11:12:14 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:12:29 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:12:50 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:12:57 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:13:12 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/prediction.js[22m
+[2m11:20:32 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/home.js[22m
+[2m11:21:57 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/css/styles.css?direct[22m
+[2m11:29:17 p. m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mjs/pages/home.js[22m
