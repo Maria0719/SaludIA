@@ -1,0 +1,827 @@
+cod_mpio,municipio,enfermedad,casos_predichos,indice_vulnerabilidad,vulnerabilidad,nivel_alerta,explicacion
+5001,MEDELLÍN,Dengue,5.050893144973993,4.08,Bajo,ALTO,Municipio en ALTO: se prevén 5.05 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.1/10).
+5001,MEDELLÍN,Malaria,1.2604807507324578,4.08,Bajo,BAJO,Municipio en BAJO: se prevén 1.26 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+5030,AMAGÁ,Dengue,1.4261560604211518,2.79,Bajo,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.8/10).
+5031,AMALFI,Dengue,1.2062255501855232,3.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.0/10).
+5031,AMALFI,Malaria,1.1937225011590225,3.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.19 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.0/10).
+5040,ANORÍ,Dengue,1.3246106327552676,5.61,Medio,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+5040,ANORÍ,Malaria,2.029692739002607,5.61,Medio,BAJO,Municipio en BAJO: se prevén 2.03 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+5044,ANZÁ,Dengue,1.4166105563931688,4.55,Bajo,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+5045,APARTADÓ,Dengue,3.980643401636273,3.68,Bajo,ALTO,Municipio en ALTO: se prevén 3.98 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (3.7/10).
+5045,APARTADÓ,Malaria,6.625833548770289,3.68,Bajo,MEDIO,Municipio en MEDIO: se prevén 6.63 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad baja (3.7/10).
+5051,ARBOLETES,Dengue,1.387500988627406,3.66,Bajo,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+5051,ARBOLETES,Malaria,2.378791481363532,3.66,Bajo,BAJO,Municipio en BAJO: se prevén 2.38 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+5055,ARGELIA,Dengue,1.7994398983624142,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.80 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+5055,ARGELIA,Malaria,1.1279755572981132,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+5059,ARMENIA,Dengue,1.3971024162820127,6.99,Alto,MEDIO,Municipio en MEDIO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+5079,BARBOSA,Dengue,1.904000302137892,4.45,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.90 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.5/10).
+5088,BELLO,Dengue,1.7145840500920009,4.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.71 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5091,BETANIA,Dengue,1.18476107100212,3.69,Bajo,BAJO,Municipio en BAJO: se prevén 1.18 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+5093,BETULIA,Dengue,1.2456109004405258,3.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.25 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.1/10).
+5107,BRICEÑO,Dengue,1.6987034963930427,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.70 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+5120,CÁCERES,Dengue,1.6481926468432508,3.82,Bajo,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+5120,CÁCERES,Malaria,2.08111938977522,3.82,Bajo,BAJO,Municipio en BAJO: se prevén 2.08 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+5129,CALDAS,Dengue,1.4409032495568308,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5147,CAREPA,Dengue,1.846140890767301,3.42,Bajo,BAJO,Municipio en BAJO: se prevén 1.85 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.4/10).
+5147,CAREPA,Malaria,2.8548488820237483,3.42,Bajo,BAJO,Municipio en BAJO: se prevén 2.85 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.4/10).
+5154,CAUCASIA,Dengue,3.433027533890943,2.87,Bajo,ALTO,Municipio en ALTO: se prevén 3.43 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (2.9/10).
+5154,CAUCASIA,Malaria,1.4497207384289168,2.87,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (2.9/10).
+5172,CHIGORODÓ,Dengue,1.8711687927113347,3.85,Bajo,BAJO,Municipio en BAJO: se prevén 1.87 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+5172,CHIGORODÓ,Malaria,1.8829428227492715,3.85,Bajo,BAJO,Municipio en BAJO: se prevén 1.88 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+5190,CISNEROS,Dengue,1.3495125453482393,4.94,Medio,BAJO,Municipio en BAJO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+5197,COCORNÁ,Dengue,1.343398888692639,4.15,Bajo,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+5206,CONCEPCIÓN,Dengue,1.2557094928979669,5.49,Medio,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5209,CONCORDIA,Dengue,1.476484439371737,3.31,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+5212,COPACABANA,Dengue,1.5021402371668602,3.12,Bajo,BAJO,Municipio en BAJO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.1/10).
+5234,DABEIBA,Dengue,1.4580216832851134,4.43,Bajo,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+5234,DABEIBA,Malaria,2.2322321326701595,4.43,Bajo,BAJO,Municipio en BAJO: se prevén 2.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+5250,EL BAGRE,Dengue,1.6354731687149,8.59,Alto,MEDIO,Municipio en MEDIO: se prevén 1.64 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.6/10).
+5250,EL BAGRE,Malaria,10.041880475969776,8.59,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 10.04 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.6/10).
+5266,ENVIGADO,Dengue,1.4764116533122116,2.53,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.5/10).
+5284,FRONTINO,Malaria,2.665774821001233,5.55,Medio,BAJO,Municipio en BAJO: se prevén 2.67 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5308,GIRARDOTA,Dengue,1.2020120056997765,2.56,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.6/10).
+5313,GRANADA,Dengue,1.603018498003954,7.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+5313,GRANADA,Malaria,1.1710832722753262,7.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+5315,GUADALUPE,Dengue,1.4977734210037994,6.83,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+5360,ITAGÜÍ,Dengue,1.4413395532025972,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5361,ITUANGO,Malaria,1.23825164655987,3.4,Bajo,BAJO,Municipio en BAJO: se prevén 1.24 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.4/10).
+5364,JARDÍN,Dengue,1.21926472857893,3.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.22 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.0/10).
+5380,LA ESTRELLA,Dengue,1.3555723780945073,4.08,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+5390,LA PINTADA,Dengue,1.4127633104512285,4.52,Bajo,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+5400,LA UNIÓN,Dengue,1.7727926568007937,4.4,Bajo,BAJO,Municipio en BAJO: se prevén 1.77 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+5400,LA UNIÓN,Malaria,1.160945745902104,4.4,Bajo,BAJO,Municipio en BAJO: se prevén 1.16 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+5411,LIBORINA,Dengue,1.3506478642735755,3.86,Bajo,BAJO,Municipio en BAJO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+5425,MACEO,Dengue,1.7837526973337423,6.92,Alto,MEDIO,Municipio en MEDIO: se prevén 1.78 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+5475,MURINDÓ,Malaria,6.619982936159621,7.14,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.62 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+5480,MUTATÁ,Dengue,1.341130363308387,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+5480,MUTATÁ,Malaria,3.30318946318181,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 3.30 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+5483,NARIÑO,Dengue,1.3999951340706032,4.76,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+5483,NARIÑO,Malaria,1.5391633014274655,4.76,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+5490,NECOCLÍ,Dengue,2.467111415365153,3.93,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.47 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.9/10).
+5490,NECOCLÍ,Malaria,1.8259944326728084,3.93,Bajo,BAJO,Municipio en BAJO: se prevén 1.83 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+5495,NECHÍ,Dengue,2.031979433748884,5.35,Medio,ALTO,Municipio en ALTO: se prevén 2.03 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.3/10).
+5495,NECHÍ,Malaria,2.78447419021576,5.35,Medio,BAJO,Municipio en BAJO: se prevén 2.78 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+5579,PUERTO BERRÍO,Dengue,2.0585928613121425,3.45,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.06 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.5/10).
+5579,PUERTO BERRÍO,Malaria,1.233744195216742,3.45,Bajo,BAJO,Municipio en BAJO: se prevén 1.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+5585,PUERTO NARE,Dengue,1.3304591009465376,3.54,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+5591,PUERTO TRIUNFO,Dengue,2.185051649487157,4.17,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.19 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.2/10).
+5604,REMEDIOS,Dengue,1.399240383542411,6.31,Alto,MEDIO,Municipio en MEDIO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+5604,REMEDIOS,Malaria,1.823778524094616,6.31,Alto,MEDIO,Municipio en MEDIO: se prevén 1.82 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+5615,RIONEGRO,Dengue,1.653195967328167,4.2,Bajo,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+5628,SABANALARGA,Dengue,5.402801353591025,8.48,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.40 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (8.5/10).
+5631,SABANETA,Dengue,1.314651153548676,4.28,Bajo,BAJO,Municipio en BAJO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+5642,SALGAR,Dengue,1.1921727630163534,2.89,Bajo,BAJO,Municipio en BAJO: se prevén 1.19 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.9/10).
+5649,SAN CARLOS,Dengue,1.3588138397473657,4.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5649,SAN CARLOS,Malaria,1.324336879977011,4.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5652,SAN FRANCISCO,Dengue,1.583137786146137,5.46,Medio,BAJO,Municipio en BAJO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5659,SAN JUAN DE URABÁ,Dengue,1.4758051986042997,4.07,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+5659,SAN JUAN DE URABÁ,Malaria,2.121242898796061,4.07,Bajo,BAJO,Municipio en BAJO: se prevén 2.12 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+5660,SAN LUIS,Dengue,1.454424310819018,6.54,Alto,MEDIO,Municipio en MEDIO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+5665,SAN PEDRO DE URABÁ,Dengue,1.489455842010177,5.0,Medio,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+5665,SAN PEDRO DE URABÁ,Malaria,2.743759307412929,5.0,Medio,BAJO,Municipio en BAJO: se prevén 2.74 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+5667,SAN RAFAEL,Dengue,1.2345818976624452,3.27,Bajo,BAJO,Municipio en BAJO: se prevén 1.23 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+5679,SANTA BÁRBARA,Dengue,1.2406829243215478,6.93,Alto,MEDIO,Municipio en MEDIO: se prevén 1.24 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+5679,SANTA BÁRBARA,Malaria,6.4743447742553295,6.93,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.47 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (6.9/10).
+5690,SANTO DOMINGO,Dengue,1.2717639668279688,3.58,Bajo,BAJO,Municipio en BAJO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.6/10).
+5736,SEGOVIA,Dengue,1.606893182388077,5.45,Medio,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5736,SEGOVIA,Malaria,2.3183010845649514,5.45,Medio,BAJO,Municipio en BAJO: se prevén 2.32 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5756,SONSÓN,Dengue,1.7934298173180512,4.39,Bajo,BAJO,Municipio en BAJO: se prevén 1.79 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+5790,TARAZÁ,Dengue,1.4585312529919308,3.7,Bajo,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+5790,TARAZÁ,Malaria,1.6018655181695038,3.7,Bajo,BAJO,Municipio en BAJO: se prevén 1.60 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+5792,TARSO,Dengue,1.5275202062470925,4.98,Medio,BAJO,Municipio en BAJO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+5819,TOLEDO,Dengue,1.3080536287125226,5.51,Medio,BAJO,Municipio en BAJO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+5837,TURBO,Dengue,3.2293916312617297,3.31,Bajo,MEDIO,Municipio en MEDIO: se prevén 3.23 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.3/10).
+5837,TURBO,Malaria,5.902555994003513,3.31,Bajo,MEDIO,Municipio en MEDIO: se prevén 5.90 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad baja (3.3/10).
+5847,URRAO,Malaria,3.724043807120729,6.42,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.72 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (6.4/10).
+5854,VALDIVIA,Dengue,1.4378661808333684,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5854,VALDIVIA,Malaria,1.1982961508123613,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+5856,VALPARAÍSO,Dengue,1.2184501214714365,4.34,Bajo,BAJO,Municipio en BAJO: se prevén 1.22 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+5858,VEGACHÍ,Dengue,2.5299419055338426,6.13,Medio,ALTO,Municipio en ALTO: se prevén 2.53 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.1/10).
+5873,VIGÍA DEL FUERTE,Dengue,1.2612733106788072,7.43,Alto,MEDIO,Municipio en MEDIO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.4/10).
+5873,VIGÍA DEL FUERTE,Malaria,15.02591807316018,7.43,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 15.03 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (7.4/10).
+5890,YOLOMBÓ,Dengue,1.36027274007394,4.22,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+5893,YONDÓ,Dengue,1.3274870832035806,5.13,Medio,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+5893,YONDÓ,Malaria,1.2795761175842777,5.13,Medio,BAJO,Municipio en BAJO: se prevén 1.28 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+5895,ZARAGOZA,Dengue,1.4840182491178764,6.61,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.6/10).
+5895,ZARAGOZA,Malaria,8.35374207079872,6.61,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 8.35 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (6.6/10).
+8001,BARRANQUILLA,Dengue,231.55623822928695,4.35,Bajo,ALTO,Municipio en ALTO: se prevén 231.56 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.3/10).
+8001,BARRANQUILLA,Malaria,1.154220100187923,4.35,Bajo,BAJO,Municipio en BAJO: se prevén 1.15 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+8078,BARANOA,Dengue,4.789346059274174,6.48,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.79 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.5/10).
+8137,CAMPO DE LA CRUZ,Dengue,1.6486140972147756,5.62,Medio,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+8141,CANDELARIA,Dengue,1.6134881416819975,6.12,Medio,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+8296,GALAPA,Dengue,9.593900639143262,5.96,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 9.59 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (6.0/10).
+8372,JUAN DE ACOSTA,Dengue,2.293326510506779,5.72,Medio,ALTO,Municipio en ALTO: se prevén 2.29 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.7/10).
+8421,LURUACO,Dengue,2.1292393990202982,7.15,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.13 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.2/10).
+8433,MALAMBO,Dengue,9.769677561383473,5.45,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 9.77 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.5/10).
+8436,MANATÍ,Dengue,2.020884938401427,6.36,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.02 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.4/10).
+8520,PALMAR DE VARELA,Dengue,1.3001286234857925,4.59,Bajo,BAJO,Municipio en BAJO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.6/10).
+8549,PIOJÓ,Dengue,1.4649015235570504,7.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+8560,PONEDERA,Dengue,1.4239391229965084,5.38,Medio,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+8573,PUERTO COLOMBIA,Dengue,9.866992587135332,5.34,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 9.87 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.3/10).
+8573,PUERTO COLOMBIA,Malaria,1.2293707757961214,5.34,Medio,BAJO,Municipio en BAJO: se prevén 1.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+8606,REPELÓN,Dengue,1.362332707793758,5.18,Medio,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+8634,SABANAGRANDE,Dengue,1.3122213577378874,4.23,Bajo,BAJO,Municipio en BAJO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+8675,SANTA LUCÍA,Dengue,1.287661135579966,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+8685,SANTO TOMÁS,Dengue,1.3846715466377555,4.15,Bajo,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+8758,SOLEDAD,Dengue,95.32308834825132,4.84,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 95.32 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (4.8/10).
+8770,SUAN,Dengue,1.2880806406174037,6.09,Medio,BAJO,Municipio en BAJO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+8832,TUBARÁ,Dengue,1.440223335886631,5.34,Medio,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+8849,USIACURÍ,Dengue,1.8988426454052671,6.68,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.90 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.7/10).
+13001,CARTAGENA DE INDIAS,Dengue,220.21785111738149,5.6,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 220.22 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.6/10).
+13001,CARTAGENA DE INDIAS,Malaria,1.2271596617820095,5.6,Medio,BAJO,Municipio en BAJO: se prevén 1.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+13006,ACHÍ,Dengue,1.3712756684618408,4.33,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+13006,ACHÍ,Malaria,1.1489775522742542,4.33,Bajo,BAJO,Municipio en BAJO: se prevén 1.15 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+13030,ALTOS DEL ROSARIO,Dengue,5.081334580294078,7.43,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.08 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.4/10).
+13030,ALTOS DEL ROSARIO,Malaria,1.2206882408026771,7.43,Alto,MEDIO,Municipio en MEDIO: se prevén 1.22 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.4/10).
+13042,ARENAL,Dengue,1.3906997928370948,7.11,Alto,MEDIO,Municipio en MEDIO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+13042,ARENAL,Malaria,2.0421083724039586,7.11,Alto,MEDIO,Municipio en MEDIO: se prevén 2.04 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+13052,ARJONA,Dengue,5.542573817905771,4.9,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.54 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (4.9/10).
+13062,ARROYOHONDO,Dengue,1.2146022237035825,4.88,Medio,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+13074,BARRANCO DE LOBA,Dengue,1.6410098305178225,6.71,Alto,MEDIO,Municipio en MEDIO: se prevén 1.64 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+13074,BARRANCO DE LOBA,Malaria,1.134224197800093,6.71,Alto,MEDIO,Municipio en MEDIO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+13140,CALAMAR,Dengue,1.3094892283681467,6.85,Alto,MEDIO,Municipio en MEDIO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+13140,CALAMAR,Malaria,2.916340702521625,6.85,Alto,MEDIO,Municipio en MEDIO: se prevén 2.92 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+13160,CANTAGALLO,Dengue,1.3190044789790851,6.08,Medio,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+13160,CANTAGALLO,Malaria,1.341549870162075,6.08,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+13188,CICUCO,Dengue,1.4182021194976635,5.22,Medio,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+13212,CÓRDOBA,Dengue,1.6602828190088506,6.93,Alto,MEDIO,Municipio en MEDIO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+13212,CÓRDOBA,Malaria,1.5241557193093995,6.93,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+13222,CLEMENCIA,Dengue,1.447863198272672,5.73,Medio,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+13244,EL CARMEN DE BOLÍVAR,Dengue,5.278856997752643,5.53,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.28 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.5/10).
+13244,EL CARMEN DE BOLÍVAR,Malaria,1.2594513314001854,5.53,Medio,BAJO,Municipio en BAJO: se prevén 1.26 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+13248,EL GUAMO,Dengue,1.3425080020835605,5.95,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+13268,EL PEÑÓN,Dengue,1.3859611544991748,7.36,Alto,MEDIO,Municipio en MEDIO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.4/10).
+13300,HATILLO DE LOBA,Dengue,1.2923513028196236,4.89,Medio,BAJO,Municipio en BAJO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+13430,MAGANGUÉ,Dengue,8.32559398109159,4.32,Bajo,ALTO,Municipio en ALTO: se prevén 8.33 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.3/10).
+13430,MAGANGUÉ,Malaria,1.2449097920277206,4.32,Bajo,BAJO,Municipio en BAJO: se prevén 1.24 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+13433,MAHATES,Dengue,2.507601408160295,6.04,Medio,ALTO,Municipio en ALTO: se prevén 2.51 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.0/10).
+13440,MARGARITA,Dengue,1.987210644778548,6.27,Medio,ALTO,Municipio en ALTO: se prevén 1.99 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.3/10).
+13442,MARÍA LA BAJA,Dengue,3.541325450711068,6.05,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 3.54 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (6.0/10).
+13458,MONTECRISTO,Dengue,1.3627466766421543,8.46,Alto,MEDIO,Municipio en MEDIO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.5/10).
+13458,MONTECRISTO,Malaria,3.766987597086071,8.46,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.77 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.5/10).
+13468,SANTA CRUZ DE MOMPOX,Dengue,4.346286164238558,5.34,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 4.35 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.3/10).
+13473,MORALES,Dengue,1.4355085999186366,5.75,Medio,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+13473,MORALES,Malaria,1.3058633830732704,5.75,Medio,BAJO,Municipio en BAJO: se prevén 1.31 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+13490,NOROSÍ,Dengue,1.3398482838475163,8.45,Alto,MEDIO,Municipio en MEDIO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.4/10).
+13490,NOROSÍ,Malaria,2.05558151682817,8.45,Alto,MEDIO,Municipio en MEDIO: se prevén 2.06 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.4/10).
+13549,PINILLOS,Dengue,1.6935486409453464,5.14,Medio,BAJO,Municipio en BAJO: se prevén 1.69 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+13549,PINILLOS,Malaria,1.1474524761184703,5.14,Medio,BAJO,Municipio en BAJO: se prevén 1.15 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+13580,REGIDOR,Dengue,1.3030892541154118,5.32,Medio,BAJO,Municipio en BAJO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+13600,RÍO VIEJO,Dengue,2.134281386269954,8.18,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.13 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.2/10).
+13600,RÍO VIEJO,Malaria,2.3255618020675013,8.18,Alto,MEDIO,Municipio en MEDIO: se prevén 2.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.2/10).
+13620,SAN CRISTÓBAL,Dengue,1.5721306985907662,7.73,Alto,MEDIO,Municipio en MEDIO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+13647,SAN ESTANISLAO,Dengue,1.4473421459438454,6.13,Medio,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+13650,SAN FERNANDO,Dengue,1.3275530210239364,5.5,Medio,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+13654,SAN JACINTO,Dengue,1.8097643515419224,7.98,Alto,MEDIO,Municipio en MEDIO: se prevén 1.81 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+13655,SAN JACINTO DEL CAUCA,Dengue,1.301456127564922,5.17,Medio,BAJO,Municipio en BAJO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+13655,SAN JACINTO DEL CAUCA,Malaria,1.4293567026749523,5.17,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+13657,SAN JUAN NEPOMUCENO,Dengue,3.952841715520216,6.63,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.95 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.6/10).
+13667,SAN MARTÍN DE LOBA,Dengue,1.7322806603375462,5.53,Medio,BAJO,Municipio en BAJO: se prevén 1.73 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+13670,SAN PABLO,Dengue,1.574936694033724,4.71,Medio,BAJO,Municipio en BAJO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+13670,SAN PABLO,Malaria,3.0742131973665394,4.71,Medio,BAJO,Municipio en BAJO: se prevén 3.07 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+13673,SANTA CATALINA,Dengue,1.3835154153710811,6.11,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+13683,SANTA ROSA,Dengue,2.6897957955524165,5.15,Medio,ALTO,Municipio en ALTO: se prevén 2.69 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.2/10).
+13683,SANTA ROSA,Malaria,1.1616442494633228,5.15,Medio,BAJO,Municipio en BAJO: se prevén 1.16 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+13688,SANTA ROSA DEL SUR,Dengue,1.6262105541387726,6.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.63 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+13688,SANTA ROSA DEL SUR,Malaria,1.5333782314739848,6.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+13744,SIMITÍ,Dengue,1.4891054800493837,5.43,Medio,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+13744,SIMITÍ,Malaria,3.635360537201418,5.43,Medio,BAJO,Municipio en BAJO: se prevén 3.64 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+13760,SOPLAVIENTO,Dengue,1.2761944167068608,4.99,Medio,BAJO,Municipio en BAJO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+13810,TIQUISIO,Dengue,2.070124663160076,7.03,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.07 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.0/10).
+13810,TIQUISIO,Malaria,1.8054434494148968,7.03,Alto,MEDIO,Municipio en MEDIO: se prevén 1.81 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+13836,TURBACO,Dengue,5.777595273738602,5.51,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.78 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.5/10).
+13838,TURBANÁ,Dengue,1.533607995883885,8.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.3/10).
+13873,VILLANUEVA,Dengue,2.091353932620613,8.79,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.09 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.8/10).
+13894,ZAMBRANO,Dengue,1.414273767590318,6.58,Alto,MEDIO,Municipio en MEDIO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.6/10).
+15109,BUENAVISTA,Dengue,1.4722215387565178,6.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+15109,BUENAVISTA,Malaria,1.1178574253163478,6.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.12 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+15185,CHITARAQUE,Dengue,2.2150129235526403,6.92,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.22 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.9/10).
+15223,CUBARÁ,Dengue,1.495996766940205,6.42,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+15377,LABRANZAGRANDE,Dengue,1.6097302198141947,7.87,Alto,MEDIO,Municipio en MEDIO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.9/10).
+15401,LA VICTORIA,Dengue,1.3126784972554346,7.83,Alto,MEDIO,Municipio en MEDIO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+15442,MARIPÍ,Dengue,1.4240650434317788,7.5,Alto,MEDIO,Municipio en MEDIO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+15455,MIRAFLORES,Dengue,1.3164361603316324,7.72,Alto,MEDIO,Municipio en MEDIO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+15455,MIRAFLORES,Malaria,1.508004102805129,7.72,Alto,MEDIO,Municipio en MEDIO: se prevén 1.51 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+15469,MONIQUIRÁ,Dengue,1.7338916293941806,6.19,Medio,BAJO,Municipio en BAJO: se prevén 1.73 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+15480,MUZO,Dengue,1.4714793331017733,6.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+15507,OTANCHE,Dengue,1.712425003985722,6.77,Alto,MEDIO,Municipio en MEDIO: se prevén 1.71 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+15514,PÁEZ,Dengue,1.1415149042031754,6.53,Alto,MEDIO,Municipio en MEDIO: se prevén 1.14 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+15531,PAUNA,Dengue,2.0168953156397764,7.13,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.02 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+15572,PUERTO BOYACÁ,Dengue,1.6101688784385502,5.8,Medio,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+15580,QUÍPAMA,Dengue,1.2310644096927357,6.81,Alto,MEDIO,Municipio en MEDIO: se prevén 1.23 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+15690,SANTA MARÍA,Dengue,1.371526039971593,7.03,Alto,MEDIO,Municipio en MEDIO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+17001,MANIZALES,Dengue,1.201253102362979,3.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.1/10).
+17174,CHINCHINÁ,Dengue,1.3622928375011658,3.24,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.2/10).
+17380,LA DORADA,Dengue,1.5652470202506152,4.26,Bajo,BAJO,Municipio en BAJO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+17442,MARMATO,Dengue,1.2579377317667122,4.16,Bajo,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+17495,NORCASIA,Dengue,1.663613583486177,6.69,Alto,MEDIO,Municipio en MEDIO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+17524,PALESTINA,Dengue,1.2341850157338374,3.7,Bajo,BAJO,Municipio en BAJO: se prevén 1.23 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+17614,RIOSUCIO,Dengue,1.608952072092253,4.27,Bajo,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+17614,RIOSUCIO,Malaria,4.611149372937218,4.27,Bajo,MEDIO,Municipio en MEDIO: se prevén 4.61 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad baja (4.3/10).
+17653,SALAMINA,Dengue,1.214445921485177,3.64,Bajo,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.6/10).
+17662,SAMANÁ,Dengue,1.4494822222853134,3.4,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.4/10).
+17777,SUPÍA,Dengue,1.1892004506057314,3.31,Bajo,BAJO,Municipio en BAJO: se prevén 1.19 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+17867,VICTORIA,Dengue,1.4457166716385026,5.43,Medio,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+17877,VITERBO,Dengue,1.428617353143002,6.33,Alto,MEDIO,Municipio en MEDIO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+18001,FLORENCIA,Dengue,3.564322712382704,4.03,Bajo,ALTO,Municipio en ALTO: se prevén 3.56 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.0/10).
+18001,FLORENCIA,Malaria,1.3259510891505857,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+18029,ALBANIA,Dengue,1.668326898862178,7.11,Alto,MEDIO,Municipio en MEDIO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+18094,BELÉN DE LOS ANDAQUÍES,Dengue,1.9498484061642047,5.78,Medio,ALTO,Municipio en ALTO: se prevén 1.95 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.8/10).
+18150,CARTAGENA DEL CHAIRÁ,Dengue,1.658356257480727,4.17,Bajo,BAJO,Municipio en BAJO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+18150,CARTAGENA DEL CHAIRÁ,Malaria,2.053401024005749,4.17,Bajo,BAJO,Municipio en BAJO: se prevén 2.05 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+18205,CURILLO,Dengue,1.8301042320629368,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.83 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+18247,EL DONCELLO,Dengue,1.371699847243152,4.34,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+18256,EL PAUJÍL,Dengue,1.275730733590717,4.72,Medio,BAJO,Municipio en BAJO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+18410,LA MONTAÑITA,Dengue,1.5767655351458116,4.42,Bajo,BAJO,Municipio en BAJO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+18460,MILÁN,Dengue,1.3834554360632234,6.26,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.3/10).
+18592,PUERTO RICO,Dengue,2.1780446389677195,6.17,Medio,ALTO,Municipio en ALTO: se prevén 2.18 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.2/10).
+18592,PUERTO RICO,Malaria,1.4466404500447014,6.17,Medio,BAJO,Municipio en BAJO: se prevén 1.45 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+18610,SAN JOSÉ DEL FRAGUA,Dengue,1.5480708760016395,5.32,Medio,BAJO,Municipio en BAJO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+18753,SAN VICENTE DEL CAGUÁN,Dengue,1.666467417643719,5.42,Medio,BAJO,Municipio en BAJO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+18756,SOLANO,Dengue,1.273404576472573,7.51,Alto,MEDIO,Municipio en MEDIO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+18756,SOLANO,Malaria,5.05765520701899,7.51,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.06 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.5/10).
+19001,POPAYÁN,Dengue,1.4143616876776557,2.42,Bajo,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.4/10).
+19075,BALBOA,Dengue,1.4412872606964902,3.23,Bajo,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.2/10).
+19100,BOLÍVAR,Dengue,2.057390912074772,3.29,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.06 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.3/10).
+19100,BOLÍVAR,Malaria,1.4150206614740908,3.29,Bajo,BAJO,Municipio en BAJO: se prevén 1.42 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+19110,BUENOS AIRES,Dengue,1.480042544175813,2.72,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.7/10).
+19130,CAJIBÍO,Dengue,1.2912780802412436,2.49,Bajo,BAJO,Municipio en BAJO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.5/10).
+19137,CALDONO,Dengue,1.3192994643988047,2.54,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.5/10).
+19142,CALOTO,Dengue,1.26549583365987,3.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.0/10).
+19212,CORINTO,Dengue,1.484981050205077,4.55,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+19300,GUACHENÉ,Dengue,1.4301725059086432,3.49,Bajo,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+19318,GUAPI,Dengue,2.085655963878738,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.09 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.5/10).
+19318,GUAPI,Malaria,18.794029862299904,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 18.79 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+19397,LA VEGA,Dengue,1.3287006310560812,2.72,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.7/10).
+19418,LÓPEZ DE MICAY,Dengue,1.4594087674288492,5.65,Medio,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+19418,LÓPEZ DE MICAY,Malaria,1.5181958475151398,5.65,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+19450,MERCADERES,Dengue,1.756304704669848,4.07,Bajo,BAJO,Municipio en BAJO: se prevén 1.76 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+19455,MIRANDA,Dengue,1.3884025489696734,2.72,Bajo,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.7/10).
+19513,PADILLA,Dengue,1.934097344513285,4.53,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.93 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.5/10).
+19532,PATÍA,Dengue,1.933323445539352,2.81,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.93 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (2.8/10).
+19532,PATÍA,Malaria,1.2660514720920064,2.81,Bajo,BAJO,Municipio en BAJO: se prevén 1.27 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (2.8/10).
+19533,PIAMONTE,Dengue,1.6462889810578414,6.15,Medio,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+19573,PUERTO TEJADA,Dengue,1.4022499216898583,2.8,Bajo,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.8/10).
+19573,PUERTO TEJADA,Malaria,1.2286151646359595,2.8,Bajo,BAJO,Municipio en BAJO: se prevén 1.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (2.8/10).
+19698,SANTANDER DE QUILICHAO,Dengue,2.289784089826434,2.62,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.29 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (2.6/10).
+19780,SUÁREZ,Dengue,1.5167842717993514,4.4,Bajo,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+19785,SUCRE,Dengue,1.4294123209546383,5.12,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+19785,SUCRE,Malaria,1.279973697270878,5.12,Medio,BAJO,Municipio en BAJO: se prevén 1.28 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+19807,TIMBÍO,Dengue,1.3658448049070064,2.49,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.5/10).
+19809,TIMBIQUÍ,Dengue,1.2801639919051375,7.59,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+19809,TIMBIQUÍ,Malaria,6.645390633849883,7.59,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.65 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.6/10).
+20001,VALLEDUPAR,Dengue,9.093124522920135,4.08,Bajo,ALTO,Municipio en ALTO: se prevén 9.09 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.1/10).
+20001,VALLEDUPAR,Malaria,1.1368927735982957,4.08,Bajo,BAJO,Municipio en BAJO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+20011,AGUACHICA,Dengue,7.397707380098662,5.6,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 7.40 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.6/10).
+20011,AGUACHICA,Malaria,1.1057959096202818,5.6,Medio,BAJO,Municipio en BAJO: se prevén 1.11 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+20013,AGUSTÍN CODAZZI,Dengue,2.0197596474718544,5.88,Medio,ALTO,Municipio en ALTO: se prevén 2.02 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.9/10).
+20032,ASTREA,Dengue,1.488892893948924,6.16,Medio,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+20045,BECERRIL,Dengue,2.21423178802188,7.32,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.21 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.3/10).
+20060,BOSCONIA,Dengue,5.125048275338051,4.77,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.13 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (4.8/10).
+20175,CHIMICHAGUA,Dengue,1.661199483836988,6.44,Alto,MEDIO,Municipio en MEDIO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+20178,CHIRIGUANÁ,Dengue,1.470434809866704,4.41,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+20228,CURUMANÍ,Dengue,5.052103936166849,7.5,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.05 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+20228,CURUMANÍ,Malaria,1.4084874197051915,7.5,Alto,MEDIO,Municipio en MEDIO: se prevén 1.41 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+20238,EL COPEY,Dengue,1.5767523901925655,4.44,Bajo,BAJO,Municipio en BAJO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+20250,EL PASO,Dengue,1.520300083757741,6.89,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+20295,GAMARRA,Dengue,1.4199618514431729,4.14,Bajo,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+20383,LA GLORIA,Dengue,1.4466098480794392,4.52,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+20400,LA JAGUA DE IBIRICO,Dengue,2.7982337114206093,4.9,Medio,ALTO,Municipio en ALTO: se prevén 2.80 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (4.9/10).
+20443,MANAURE BALCÓN DEL CESAR,Dengue,1.3861629962834146,5.72,Medio,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+20517,PAILITAS,Dengue,1.9510490393332889,6.95,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.95 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.0/10).
+20517,PAILITAS,Malaria,1.1557053555629273,6.95,Alto,MEDIO,Municipio en MEDIO: se prevén 1.16 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+20550,PELAYA,Dengue,3.484221639609812,5.78,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 3.48 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.8/10).
+20570,PUEBLO BELLO,Dengue,1.5534857334172614,4.51,Bajo,BAJO,Municipio en BAJO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+20614,RÍO DE ORO,Dengue,1.4292712274385782,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+20710,SAN ALBERTO,Dengue,2.755701807783602,5.86,Medio,ALTO,Municipio en ALTO: se prevén 2.76 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.9/10).
+20750,SAN DIEGO,Dengue,6.023693167294431,6.5,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.02 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.5/10).
+20770,SAN MARTÍN,Dengue,4.2387042416139336,7.88,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.24 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.9/10).
+20787,TAMALAMEQUE,Dengue,1.3225604303735246,4.34,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+23001,MONTERÍA,Dengue,66.95459137385687,4.12,Bajo,ALTO,Municipio en ALTO: se prevén 66.95 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.1/10).
+23001,MONTERÍA,Malaria,7.484755525828298,4.12,Bajo,MEDIO,Municipio en MEDIO: se prevén 7.48 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad baja (4.1/10).
+23068,AYAPEL,Dengue,1.4056849727766196,3.5,Bajo,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+23068,AYAPEL,Malaria,1.4162205316600305,3.5,Bajo,BAJO,Municipio en BAJO: se prevén 1.42 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+23090,CANALETE,Dengue,1.383573010410998,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+23090,CANALETE,Malaria,1.5213809793285158,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+23162,CERETÉ,Dengue,3.301395342437096,3.29,Bajo,ALTO,Municipio en ALTO: se prevén 3.30 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (3.3/10).
+23162,CERETÉ,Malaria,1.326662300169168,3.29,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+23168,CHIMÁ,Dengue,1.3613379777369747,5.03,Medio,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+23182,CHINÚ,Dengue,4.577861886521562,4.19,Bajo,ALTO,Municipio en ALTO: se prevén 4.58 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.2/10).
+23182,CHINÚ,Malaria,1.2048793834105291,4.19,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+23189,CIÉNAGA DE ORO,Dengue,2.381708769039308,3.85,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.38 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.9/10).
+23189,CIÉNAGA DE ORO,Malaria,1.1427208123963593,3.85,Bajo,BAJO,Municipio en BAJO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+23300,COTORRA,Dengue,1.5272276786525865,3.84,Bajo,BAJO,Municipio en BAJO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+23350,LA APARTADA,Dengue,1.3953465765769724,4.3,Bajo,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+23350,LA APARTADA,Malaria,1.1663293605979668,4.3,Bajo,BAJO,Municipio en BAJO: se prevén 1.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+23417,LORICA,Dengue,1.98254144674468,3.9,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.98 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.9/10).
+23417,LORICA,Malaria,1.461385533211074,3.9,Bajo,BAJO,Municipio en BAJO: se prevén 1.46 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+23419,LOS CÓRDOBAS,Dengue,1.4234524028125528,5.24,Medio,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+23419,LOS CÓRDOBAS,Malaria,2.017634931176873,5.24,Medio,BAJO,Municipio en BAJO: se prevén 2.02 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+23464,MOMIL,Dengue,1.442428673211519,4.87,Medio,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+23464,MOMIL,Malaria,1.1821166345254088,4.87,Medio,BAJO,Municipio en BAJO: se prevén 1.18 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+23466,MONTELÍBANO,Dengue,1.6667526570474478,5.54,Medio,BAJO,Municipio en BAJO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+23466,MONTELÍBANO,Malaria,7.957319454841315,5.54,Medio,ALTO,Municipio en ALTO: se prevén 7.96 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad media (5.5/10).
+23500,MOÑITOS,Dengue,1.88610338528838,4.63,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.89 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.6/10).
+23500,MOÑITOS,Malaria,1.2550009436066285,4.63,Bajo,BAJO,Municipio en BAJO: se prevén 1.26 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.6/10).
+23555,PLANETA RICA,Dengue,1.9246656375288784,4.64,Medio,ALTO,Municipio en ALTO: se prevén 1.92 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (4.6/10).
+23555,PLANETA RICA,Malaria,1.9110010687643053,4.64,Medio,BAJO,Municipio en BAJO: se prevén 1.91 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.6/10).
+23570,PUEBLO NUEVO,Dengue,3.141490391243577,5.41,Medio,ALTO,Municipio en ALTO: se prevén 3.14 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.4/10).
+23570,PUEBLO NUEVO,Malaria,1.175662511570247,5.41,Medio,BAJO,Municipio en BAJO: se prevén 1.18 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+23574,PUERTO ESCONDIDO,Dengue,1.53806768962524,3.83,Bajo,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+23574,PUERTO ESCONDIDO,Malaria,1.3160728213961157,3.83,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+23580,PUERTO LIBERTADOR,Dengue,1.5658627819338022,8.1,Alto,MEDIO,Municipio en MEDIO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.1/10).
+23580,PUERTO LIBERTADOR,Malaria,18.709151764774024,8.1,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 18.71 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.1/10).
+23660,SAHAGÚN,Dengue,2.484517159743449,3.8,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.48 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.8/10).
+23660,SAHAGÚN,Malaria,1.1419393362034254,3.8,Bajo,BAJO,Municipio en BAJO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+23672,SAN ANTERO,Dengue,1.6257054741965216,4.28,Bajo,BAJO,Municipio en BAJO: se prevén 1.63 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+23672,SAN ANTERO,Malaria,1.3275121163885537,4.28,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+23675,SAN BERNARDO DEL VIENTO,Dengue,1.4749012865245548,4.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+23675,SAN BERNARDO DEL VIENTO,Malaria,1.400413898882923,4.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.40 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+23682,SAN JOSÉ DE URÉ,Dengue,1.429913010781338,5.5,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+23682,SAN JOSÉ DE URÉ,Malaria,1.5644176859755392,5.5,Medio,BAJO,Municipio en BAJO: se prevén 1.56 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+23686,SAN PELAYO,Dengue,1.4975731688558218,4.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+23686,SAN PELAYO,Malaria,1.134412887669208,4.13,Bajo,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+23807,TIERRALTA,Dengue,2.698114359697603,8.28,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.70 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.3/10).
+23807,TIERRALTA,Malaria,60.70997253695048,8.28,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 60.71 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.3/10).
+23815,TUCHÍN,Dengue,1.5226888466499728,4.67,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+23815,TUCHÍN,Malaria,3.114001471935476,4.67,Medio,BAJO,Municipio en BAJO: se prevén 3.11 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+23855,VALENCIA,Dengue,6.697727454305128,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.70 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+23855,VALENCIA,Malaria,21.477498826267887,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 21.48 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+25001,AGUA DE DIOS,Dengue,1.5351612105774612,6.93,Alto,MEDIO,Municipio en MEDIO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+25035,ANAPOIMA,Dengue,1.5726127831562944,6.01,Medio,BAJO,Municipio en BAJO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+25040,ANOLAIMA,Dengue,1.5132856348479629,4.24,Bajo,BAJO,Municipio en BAJO: se prevén 1.51 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+25123,CACHIPAY,Dengue,1.3407155278101266,5.07,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+25148,CAPARRAPÍ,Dengue,1.4713885426820217,3.74,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+25151,CÁQUEZA,Dengue,1.368010948089164,3.41,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.4/10).
+25168,CHAGUANÍ,Dengue,2.1354060063481204,7.01,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.14 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.0/10).
+25175,CHÍA,Dengue,1.195479049941154,2.77,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.8/10).
+25245,EL COLEGIO,Dengue,1.49482336252493,5.34,Medio,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+25290,FUSAGASUGÁ,Dengue,1.4865561717544784,2.87,Bajo,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.9/10).
+25307,GIRARDOT,Dengue,2.2336195484482606,4.64,Medio,ALTO,Municipio en ALTO: se prevén 2.23 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (4.6/10).
+25320,GUADUAS,Dengue,1.564730888218965,5.38,Medio,BAJO,Municipio en BAJO: se prevén 1.56 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+25386,LA MESA,Dengue,1.5323428691427674,4.89,Medio,BAJO,Municipio en BAJO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+25394,LA PALMA,Dengue,1.3356715912728414,4.03,Bajo,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+25398,LA PEÑA,Dengue,1.3413434510023112,4.87,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+25438,MEDINA,Dengue,1.5789871184490378,7.18,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+25473,MOSQUERA,Dengue,1.603268062143997,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+25473,MOSQUERA,Malaria,15.943326768379949,6.3,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 15.94 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (6.3/10).
+25488,NILO,Dengue,2.564852373342654,7.33,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.56 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.3/10).
+25524,PANDI,Dengue,1.38119398253,6.03,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+25530,PARATEBUENO,Dengue,1.354680985838697,6.66,Alto,MEDIO,Municipio en MEDIO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+25572,PUERTO SALGAR,Dengue,1.5754461211033457,5.73,Medio,BAJO,Municipio en BAJO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+25592,QUEBRADANEGRA,Dengue,1.158156953387341,5.02,Medio,BAJO,Municipio en BAJO: se prevén 1.16 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+25596,QUIPILE,Dengue,1.498862567978835,5.28,Medio,BAJO,Municipio en BAJO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+25612,RICAURTE,Dengue,1.6731825220529033,5.77,Medio,BAJO,Municipio en BAJO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+25612,RICAURTE,Malaria,1.2891717161004923,5.77,Medio,BAJO,Municipio en BAJO: se prevén 1.29 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+25653,SAN CAYETANO,Dengue,1.750555230728046,6.51,Alto,MEDIO,Municipio en MEDIO: se prevén 1.75 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+25718,SASAIMA,Dengue,1.36669382382058,4.16,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+25797,TENA,Dengue,1.3678378509472675,4.41,Bajo,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+25805,TIBACUY,Dengue,1.1940409385844708,5.04,Medio,BAJO,Municipio en BAJO: se prevén 1.19 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+25815,TOCAIMA,Dengue,1.5401839620311408,5.38,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+25839,UBALÁ,Dengue,1.8209401620290235,5.47,Medio,BAJO,Municipio en BAJO: se prevén 1.82 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+25851,ÚTICA,Dengue,1.2107835387202308,4.99,Medio,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+25875,VILLETA,Dengue,2.5636912981463724,5.35,Medio,ALTO,Municipio en ALTO: se prevén 2.56 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.3/10).
+25878,VIOTÁ,Dengue,1.5387797508024923,6.03,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+25885,YACOPÍ,Dengue,1.3954248735385342,5.42,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+27001,QUIBDÓ,Dengue,2.4896627760739385,8.88,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.49 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.9/10).
+27001,QUIBDÓ,Malaria,117.73905366933064,8.88,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 117.74 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.9/10).
+27006,ACANDÍ,Dengue,1.863377570338512,7.27,Alto,MEDIO,Municipio en MEDIO: se prevén 1.86 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+27006,ACANDÍ,Malaria,2.681204697362828,7.27,Alto,MEDIO,Municipio en MEDIO: se prevén 2.68 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+27025,ALTO BAUDÓ,Dengue,1.2811100754926708,8.92,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.9/10).
+27025,ALTO BAUDÓ,Malaria,53.017498389905136,8.92,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 53.02 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.9/10).
+27050,ATRATO,Dengue,1.2943421879453538,8.26,Alto,MEDIO,Municipio en MEDIO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.3/10).
+27050,ATRATO,Malaria,11.93157431381364,8.26,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 11.93 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.3/10).
+27073,BAGADÓ,Malaria,20.79167112080632,8.41,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 20.79 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.4/10).
+27075,BAHÍA SOLANO,Dengue,1.3752482009103808,7.6,Alto,MEDIO,Municipio en MEDIO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+27075,BAHÍA SOLANO,Malaria,2.680823486698547,7.6,Alto,MEDIO,Municipio en MEDIO: se prevén 2.68 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+27077,BAJO BAUDÓ,Dengue,1.3841806973999438,8.88,Alto,MEDIO,Municipio en MEDIO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.9/10).
+27077,BAJO BAUDÓ,Malaria,27.690836175461257,8.88,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 27.69 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.9/10).
+27099,BOJAYÁ,Dengue,1.3445303165378362,8.37,Alto,MEDIO,Municipio en MEDIO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.4/10).
+27099,BOJAYÁ,Malaria,11.112323912975526,8.37,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 11.11 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.4/10).
+27150,CARMEN DEL DARIÉN,Dengue,1.2670295971376886,8.49,Alto,MEDIO,Municipio en MEDIO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.5/10).
+27150,CARMEN DEL DARIÉN,Malaria,4.797404234822929,8.49,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.80 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.5/10).
+27160,CÉRTEGUI,Dengue,1.3221719623270936,7.92,Alto,MEDIO,Municipio en MEDIO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.9/10).
+27160,CÉRTEGUI,Malaria,4.385192246046832,7.92,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.39 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.9/10).
+27205,CONDOTO,Dengue,1.3866965388454098,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+27205,CONDOTO,Malaria,1.5425851047217,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+27245,EL CARMEN DE ATRATO,Malaria,1.5861734756001096,5.8,Medio,BAJO,Municipio en BAJO: se prevén 1.59 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+27361,ISTMINA,Dengue,2.1296296343807994,7.47,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.13 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.5/10).
+27361,ISTMINA,Malaria,6.067831980059007,7.47,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.07 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.5/10).
+27372,JURADÓ,Dengue,1.5165334890707314,7.48,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+27372,JURADÓ,Malaria,1.4003438508497648,7.48,Alto,MEDIO,Municipio en MEDIO: se prevén 1.40 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+27413,LLORÓ,Malaria,22.727212461172947,8.39,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 22.73 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.4/10).
+27425,MEDIO ATRATO,Dengue,1.2199983009464104,8.41,Alto,MEDIO,Municipio en MEDIO: se prevén 1.22 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.4/10).
+27425,MEDIO ATRATO,Malaria,6.107802587138648,8.41,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.11 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.4/10).
+27430,MEDIO BAUDÓ,Dengue,1.5503148053311158,8.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.3/10).
+27430,MEDIO BAUDÓ,Malaria,16.8461646752515,8.35,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 16.85 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.3/10).
+27450,MEDIO SAN JUAN,Dengue,1.2743346433219171,8.56,Alto,MEDIO,Municipio en MEDIO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.6/10).
+27450,MEDIO SAN JUAN,Malaria,4.174275329977905,8.56,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.17 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.6/10).
+27491,NÓVITA,Dengue,1.2557688210967926,7.84,Alto,MEDIO,Municipio en MEDIO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+27491,NÓVITA,Malaria,4.005646300159559,7.84,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.01 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.8/10).
+27495,NUQUÍ,Malaria,11.556841404748926,8.3,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 11.56 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.3/10).
+27580,RÍO IRÓ,Dengue,1.299818808625523,6.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+27580,RÍO IRÓ,Malaria,1.4648280681808863,6.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.46 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+27660,SAN JOSÉ DEL PALMAR,Dengue,1.2173317556490355,8.01,Alto,MEDIO,Municipio en MEDIO: se prevén 1.22 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+27660,SAN JOSÉ DEL PALMAR,Malaria,2.946476223299634,8.01,Alto,MEDIO,Municipio en MEDIO: se prevén 2.95 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+27745,SIPÍ,Dengue,2.226279989844285,7.62,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.23 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.6/10).
+27745,SIPÍ,Malaria,1.476225110551148,7.62,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+27787,TADÓ,Dengue,1.2471336181061905,8.57,Alto,MEDIO,Municipio en MEDIO: se prevén 1.25 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.6/10).
+27787,TADÓ,Malaria,34.66017678191672,8.57,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 34.66 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.6/10).
+27800,UNGUÍA,Dengue,1.2949870524187015,5.39,Medio,BAJO,Municipio en BAJO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+27800,UNGUÍA,Malaria,2.3803290059077016,5.39,Medio,BAJO,Municipio en BAJO: se prevén 2.38 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+27810,UNIÓN PANAMERICANA,Dengue,1.362381436559041,7.8,Alto,MEDIO,Municipio en MEDIO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+27810,UNIÓN PANAMERICANA,Malaria,2.5137019241119263,7.8,Alto,MEDIO,Municipio en MEDIO: se prevén 2.51 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+41001,NEIVA,Dengue,13.775538510365152,6.55,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 13.78 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.5/10).
+41006,ACEVEDO,Dengue,1.3291298226207997,3.93,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+41013,AGRADO,Dengue,1.4128566270616671,5.99,Medio,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+41016,AIPE,Dengue,1.5392362563413005,7.2,Alto,MEDIO,Municipio en MEDIO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+41020,ALGECIRAS,Dengue,1.5289213882082775,7.6,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+41026,ALTAMIRA,Dengue,1.2845632015147643,6.32,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+41078,BARAYA,Dengue,6.698316830934269,7.53,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.70 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+41132,CAMPOALEGRE,Dengue,1.8119530684391068,6.8,Alto,MEDIO,Municipio en MEDIO: se prevén 1.81 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+41244,ELÍAS,Dengue,1.344581945685905,7.04,Alto,MEDIO,Municipio en MEDIO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+41298,GARZÓN,Dengue,1.9169104932679035,4.99,Medio,ALTO,Municipio en ALTO: se prevén 1.92 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.0/10).
+41306,GIGANTE,Dengue,1.4739588762821727,4.16,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+41349,HOBO,Dengue,1.605770415791535,7.89,Alto,MEDIO,Municipio en MEDIO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.9/10).
+41357,ÍQUIRA,Dengue,1.7706902937784488,6.1,Medio,BAJO,Municipio en BAJO: se prevén 1.77 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+41359,ISNOS,Dengue,1.3598905755266344,3.61,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.6/10).
+41396,LA PLATA,Dengue,1.6498275768139048,4.28,Bajo,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+41503,OPORAPA,Dengue,1.2763952368448557,4.08,Bajo,BAJO,Municipio en BAJO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+41518,PAICOL,Dengue,2.663029730886531,7.13,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.66 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+41524,PALERMO,Dengue,1.5763194211102598,7.72,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+41548,PITAL,Dengue,1.449460581464678,6.26,Medio,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.3/10).
+41551,PITALITO,Dengue,2.4530071641933424,4.63,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.45 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.6/10).
+41615,RIVERA,Dengue,1.7524828626949862,7.65,Alto,MEDIO,Municipio en MEDIO: se prevén 1.75 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+41660,SALADOBLANCO,Dengue,1.5070732578666286,5.11,Medio,BAJO,Municipio en BAJO: se prevén 1.51 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+41668,SAN AGUSTÍN,Dengue,1.4759439309815638,4.25,Bajo,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+41770,SUAZA,Dengue,2.6346796809436,5.93,Medio,ALTO,Municipio en ALTO: se prevén 2.63 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.9/10).
+41791,TARQUI,Dengue,1.670854772699006,7.52,Alto,MEDIO,Municipio en MEDIO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+41797,TESALIA,Dengue,1.8186545586174516,6.79,Alto,MEDIO,Municipio en MEDIO: se prevén 1.82 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+41799,TELLO,Dengue,1.5182518444496256,6.97,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+41801,TERUEL,Dengue,5.104454667112291,6.87,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.10 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.9/10).
+41807,TIMANÁ,Dengue,1.6211844897893315,6.55,Alto,MEDIO,Municipio en MEDIO: se prevén 1.62 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+41872,VILLAVIEJA,Dengue,1.5000856063538883,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+41885,YAGUARÁ,Dengue,1.5856745701104389,7.49,Alto,MEDIO,Municipio en MEDIO: se prevén 1.59 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+44001,RIOHACHA,Dengue,60.06927795741799,3.96,Bajo,ALTO,Municipio en ALTO: se prevén 60.07 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.0/10).
+44001,RIOHACHA,Malaria,1.293119786703619,3.96,Bajo,BAJO,Municipio en BAJO: se prevén 1.29 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+44078,BARRANCAS,Dengue,1.589924458959043,4.24,Bajo,BAJO,Municipio en BAJO: se prevén 1.59 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+44090,DIBULLA,Dengue,1.6565176901275418,2.94,Bajo,BAJO,Municipio en BAJO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.9/10).
+44098,DISTRACCIÓN,Dengue,1.6309609327587469,3.48,Bajo,BAJO,Municipio en BAJO: se prevén 1.63 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+44098,DISTRACCIÓN,Malaria,1.1305746685424856,3.48,Bajo,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+44110,EL MOLINO,Dengue,1.3860665458589234,5.68,Medio,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+44279,FONSECA,Dengue,1.5456625407607685,3.9,Bajo,BAJO,Municipio en BAJO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+44378,HATONUEVO,Dengue,1.667099952640526,3.27,Bajo,BAJO,Municipio en BAJO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+44430,MAICAO,Dengue,5.569128469512747,2.93,Bajo,ALTO,Municipio en ALTO: se prevén 5.57 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (2.9/10).
+44430,MAICAO,Malaria,1.2479829429547622,2.93,Bajo,BAJO,Municipio en BAJO: se prevén 1.25 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (2.9/10).
+44560,MANAURE,Dengue,6.071739481759488,2.75,Bajo,ALTO,Municipio en ALTO: se prevén 6.07 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (2.8/10).
+44650,SAN JUAN DEL CESAR,Dengue,1.675046879575083,3.8,Bajo,BAJO,Municipio en BAJO: se prevén 1.68 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+44847,URIBIA,Dengue,2.7989708047014497,2.6,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.80 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (2.6/10).
+44855,URUMITA,Dengue,1.2556641984204004,4.44,Bajo,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+47001,SANTA MARTA,Dengue,24.345821082626895,3.21,Bajo,ALTO,Municipio en ALTO: se prevén 24.35 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (3.2/10).
+47001,SANTA MARTA,Malaria,1.344946232149756,3.21,Bajo,BAJO,Municipio en BAJO: se prevén 1.34 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.2/10).
+47030,ALGARROBO,Dengue,1.420312120200275,5.83,Medio,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+47053,ARACATACA,Dengue,6.111154963331656,5.97,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 6.11 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (6.0/10).
+47058,ARIGUANÍ,Dengue,1.8128455281916056,6.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.81 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+47170,CHIVOLO,Dengue,1.56614271607372,7.31,Alto,MEDIO,Municipio en MEDIO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+47189,CIÉNAGA,Dengue,1.954450396624297,4.68,Medio,ALTO,Municipio en ALTO: se prevén 1.95 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (4.7/10).
+47245,EL BANCO,Dengue,1.523786335884416,3.8,Bajo,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+47258,EL PIÑÓN,Dengue,1.3766611959823067,5.05,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+47268,EL RETÉN,Dengue,2.092525555084678,5.92,Medio,ALTO,Municipio en ALTO: se prevén 2.09 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.9/10).
+47288,FUNDACIÓN,Dengue,2.059493821873551,6.37,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.06 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.4/10).
+47318,GUAMAL,Dengue,1.9397320398899929,6.62,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.94 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.6/10).
+47460,NUEVA GRANADA,Dengue,1.865567986112426,6.77,Alto,MEDIO,Municipio en MEDIO: se prevén 1.87 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+47545,PIJIÑO DEL CARMEN,Dengue,1.3627262195609449,4.23,Bajo,BAJO,Municipio en BAJO: se prevén 1.36 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+47551,PIVIJAY,Dengue,1.403347575550892,4.59,Bajo,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.6/10).
+47555,PLATO,Dengue,1.913419159290972,5.53,Medio,ALTO,Municipio en ALTO: se prevén 1.91 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.5/10).
+47570,PUEBLOVIEJO,Dengue,1.4504351453889912,3.45,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+47660,SABANAS DE SAN ÁNGEL,Dengue,1.5723567267667775,6.13,Medio,BAJO,Municipio en BAJO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+47692,SAN SEBASTIÁN DE BUENAVISTA,Dengue,1.96109810456632,5.75,Medio,ALTO,Municipio en ALTO: se prevén 1.96 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.8/10).
+47703,SAN ZENÓN,Dengue,1.3810855974823628,4.95,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+47707,SANTA ANA,Dengue,1.4957997236917748,6.4,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+47960,ZAPAYÁN,Dengue,1.3849817751098965,5.25,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+47980,ZONA BANANERA,Dengue,1.838073012107741,4.23,Bajo,BAJO,Municipio en BAJO: se prevén 1.84 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+50001,VILLAVICENCIO,Dengue,12.904559893059243,6.38,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 12.90 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.4/10).
+50001,VILLAVICENCIO,Malaria,1.3078325083893927,6.38,Alto,MEDIO,Municipio en MEDIO: se prevén 1.31 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+50006,ACACÍAS,Dengue,9.932178249805752,7.53,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 9.93 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+50006,ACACÍAS,Malaria,1.193772406990703,7.53,Alto,MEDIO,Municipio en MEDIO: se prevén 1.19 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+50110,BARRANCA DE UPÍA,Dengue,1.4821660836873702,7.97,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+50124,CABUYARO,Dengue,1.6009028795392823,7.89,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.9/10).
+50150,CASTILLA LA NUEVA,Dengue,1.6499615337706794,8.01,Alto,MEDIO,Municipio en MEDIO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+50223,CUBARRAL,Dengue,1.5987868938850496,7.35,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+50226,CUMARAL,Dengue,1.5341247029895992,7.77,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+50251,EL CASTILLO,Dengue,1.8273912067221367,7.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.83 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+50270,EL DORADO,Dengue,1.488095284009483,7.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+50287,FUENTE DE ORO,Dengue,1.5352900908458258,7.46,Alto,MEDIO,Municipio en MEDIO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+50325,MAPIRIPÁN,Dengue,1.303687656219803,7.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+50325,MAPIRIPÁN,Malaria,4.373708817447507,7.68,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.37 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.7/10).
+50350,LA MACARENA,Dengue,1.5920496183474229,4.8,Medio,BAJO,Municipio en BAJO: se prevén 1.59 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+50400,LEJANÍAS,Dengue,1.5807390119929163,7.82,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+50450,PUERTO CONCORDIA,Dengue,1.7146821741683849,6.19,Medio,BAJO,Municipio en BAJO: se prevén 1.71 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+50450,PUERTO CONCORDIA,Malaria,1.5207419015248176,6.19,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+50568,PUERTO GAITÁN,Dengue,1.8365877781605984,7.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.84 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+50568,PUERTO GAITÁN,Malaria,1.5557277289133935,7.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.56 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+50573,PUERTO LÓPEZ,Dengue,3.4333361196254604,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.43 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+50573,PUERTO LÓPEZ,Malaria,1.6012785550216564,7.54,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+50577,PUERTO LLERAS,Dengue,1.454390095034428,7.39,Alto,MEDIO,Municipio en MEDIO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.4/10).
+50606,RESTREPO,Dengue,1.519062023189707,7.67,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+50680,SAN CARLOS DE GUAROA,Dengue,1.5444350627444925,7.69,Alto,MEDIO,Municipio en MEDIO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+50683,SAN JUAN DE ARAMA,Dengue,1.5056090456459388,7.68,Alto,MEDIO,Municipio en MEDIO: se prevén 1.51 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+50711,VISTAHERMOSA,Dengue,1.512627424559799,7.05,Alto,MEDIO,Municipio en MEDIO: se prevén 1.51 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+50711,VISTAHERMOSA,Malaria,1.3476089736233146,7.05,Alto,MEDIO,Municipio en MEDIO: se prevén 1.35 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+52001,PASTO,Dengue,1.4668860576578022,3.46,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+52001,PASTO,Malaria,1.236941763033117,3.46,Bajo,BAJO,Municipio en BAJO: se prevén 1.24 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+52079,BARBACOAS,Dengue,1.5591538889726198,8.95,Alto,MEDIO,Municipio en MEDIO: se prevén 1.56 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.9/10).
+52079,BARBACOAS,Malaria,8.952811361612465,8.95,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 8.95 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.9/10).
+52233,CUMBITARA,Malaria,21.12520198994202,8.45,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 21.13 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.4/10).
+52250,EL CHARCO,Dengue,1.2767715873811114,8.83,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.8/10).
+52250,EL CHARCO,Malaria,8.661057458971811,8.83,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 8.66 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.8/10).
+52356,IPIALES,Dengue,1.2271301418243854,3.48,Bajo,BAJO,Municipio en BAJO: se prevén 1.23 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+52390,LA TOLA,Malaria,7.9115642068368945,8.25,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 7.91 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.2/10).
+52405,LEIVA,Dengue,1.2639059025649084,5.02,Medio,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+52427,MAGÜÍ,Dengue,1.4902024608809945,8.51,Alto,MEDIO,Municipio en MEDIO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.5/10).
+52427,MAGÜÍ,Malaria,15.005667671111096,8.51,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 15.01 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.5/10).
+52490,OLAYA HERRERA,Dengue,2.389202149243152,8.86,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.39 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.9/10).
+52490,OLAYA HERRERA,Malaria,20.52313101799324,8.86,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 20.52 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.9/10).
+52520,FRANCISCO PIZARRO,Dengue,1.522505401176876,7.8,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+52520,FRANCISCO PIZARRO,Malaria,4.342899248055803,7.8,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 4.34 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.8/10).
+52540,POLICARPA,Dengue,2.240473173900273,6.21,Medio,ALTO,Municipio en ALTO: se prevén 2.24 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.2/10).
+52540,POLICARPA,Malaria,2.2989970851242725,6.21,Medio,BAJO,Municipio en BAJO: se prevén 2.30 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+52621,ROBERTO PAYÁN,Dengue,1.5504431460854202,8.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.8/10).
+52621,ROBERTO PAYÁN,Malaria,19.245570045886687,8.76,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 19.25 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.8/10).
+52678,SAMANIEGO,Dengue,1.2677075258427704,3.61,Bajo,BAJO,Municipio en BAJO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.6/10).
+52786,TAMINANGO,Dengue,1.5092625345928332,4.41,Bajo,BAJO,Municipio en BAJO: se prevén 1.51 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+52835,SAN ANDRÉS DE TUMACO,Dengue,3.089483510966863,6.07,Medio,ALTO,Municipio en ALTO: se prevén 3.09 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.1/10).
+52835,SAN ANDRÉS DE TUMACO,Malaria,49.8693737450346,6.07,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 49.87 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad media (6.1/10).
+54001,SAN JOSÉ DE CÚCUTA,Dengue,56.85659364941532,5.74,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 56.86 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.7/10).
+54001,SAN JOSÉ DE CÚCUTA,Malaria,1.222532532924868,5.74,Medio,BAJO,Municipio en BAJO: se prevén 1.22 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+54003,ÁBREGO,Dengue,1.3845181563130624,4.95,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+54051,ARBOLEDAS,Dengue,1.610975654153032,6.26,Medio,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.3/10).
+54051,ARBOLEDAS,Malaria,1.1255364548832305,6.26,Medio,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.3/10).
+54099,BOCHALEMA,Dengue,1.276331512538131,7.48,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+54109,BUCARASICA,Dengue,1.4734277978400474,7.04,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+54172,CHINÁCOTA,Dengue,1.4884852514621203,7.31,Alto,MEDIO,Municipio en MEDIO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+54206,CONVENCIÓN,Dengue,1.9795037454653333,7.98,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.98 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.0/10).
+54245,EL CARMEN,Dengue,1.4491066259641654,7.07,Alto,MEDIO,Municipio en MEDIO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+54250,EL TARRA,Dengue,1.3803481573550642,6.99,Alto,MEDIO,Municipio en MEDIO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+54250,EL TARRA,Malaria,1.4159812794310405,6.99,Alto,MEDIO,Municipio en MEDIO: se prevén 1.42 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+54261,EL ZULIA,Dengue,2.6232480522648185,7.13,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.62 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+54261,EL ZULIA,Malaria,1.1406816421656036,7.13,Alto,MEDIO,Municipio en MEDIO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+54313,GRAMALOTE,Dengue,1.1772777136621602,5.88,Medio,BAJO,Municipio en BAJO: se prevén 1.18 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+54344,HACARÍ,Dengue,1.3721738417450662,5.88,Medio,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+54385,LA ESPERANZA,Dengue,1.753198672134355,6.84,Alto,MEDIO,Municipio en MEDIO: se prevén 1.75 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+54398,LA PLAYA,Dengue,1.577016704004039,6.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+54405,LOS PATIOS,Dengue,9.974437429105384,6.2,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 9.97 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (6.2/10).
+54498,OCAÑA,Dengue,3.93412027260017,5.69,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 3.93 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.7/10).
+54553,PUERTO SANTANDER,Dengue,1.6404429039572834,8.02,Alto,MEDIO,Municipio en MEDIO: se prevén 1.64 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+54553,PUERTO SANTANDER,Malaria,1.9440527191031756,8.02,Alto,MEDIO,Municipio en MEDIO: se prevén 1.94 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+54599,RAGONVALIA,Dengue,1.379996628807378,6.15,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+54660,SALAZAR,Dengue,1.468447810635822,5.94,Medio,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+54670,SAN CALIXTO,Dengue,1.4002757328041238,5.62,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+54670,SAN CALIXTO,Malaria,1.5387885181109744,5.62,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+54720,SARDINATA,Dengue,1.4136938759776982,6.01,Medio,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+54720,SARDINATA,Malaria,2.40819837340292,6.01,Medio,BAJO,Municipio en BAJO: se prevén 2.41 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+54800,TEORAMA,Dengue,1.731958517294894,6.57,Alto,MEDIO,Municipio en MEDIO: se prevén 1.73 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.6/10).
+54800,TEORAMA,Malaria,1.476447118193683,6.57,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.6/10).
+54810,TIBÚ,Dengue,2.5962338569400787,9.49,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.60 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (9.5/10).
+54810,TIBÚ,Malaria,30.876389525270067,9.49,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 30.88 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (9.5/10).
+54874,VILLA DEL ROSARIO,Dengue,6.676226506268645,6.66,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 6.68 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.7/10).
+63130,CALARCÁ,Dengue,1.4277280587595338,3.57,Bajo,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.6/10).
+63190,CIRCASIA,Dengue,1.3116913343053485,3.86,Bajo,BAJO,Municipio en BAJO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+63272,FILANDIA,Dengue,1.3054230606571515,4.29,Bajo,BAJO,Municipio en BAJO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+63302,GÉNOVA,Dengue,1.3523889158939937,6.24,Medio,BAJO,Municipio en BAJO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+63401,LA TEBAIDA,Dengue,1.6139255559100771,4.53,Bajo,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+63470,MONTENEGRO,Dengue,1.4225449947092814,3.81,Bajo,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.8/10).
+63594,QUIMBAYA,Dengue,1.4678245271608632,4.22,Bajo,BAJO,Municipio en BAJO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+66001,PEREIRA,Dengue,1.876094195599148,4.11,Bajo,BAJO,Municipio en BAJO: se prevén 1.88 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+66001,PEREIRA,Malaria,1.1032887828488698,4.11,Bajo,BAJO,Municipio en BAJO: se prevén 1.10 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+66088,BELÉN DE UMBRÍA,Dengue,1.349931347676253,4.28,Bajo,BAJO,Municipio en BAJO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+66170,DOSQUEBRADAS,Dengue,1.3918948138009108,2.53,Bajo,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (2.5/10).
+66383,LA CELIA,Dengue,1.2149052951773769,5.28,Medio,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+66400,LA VIRGINIA,Dengue,1.615428974260344,5.63,Medio,BAJO,Municipio en BAJO: se prevén 1.62 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+66400,LA VIRGINIA,Malaria,1.3424431537530928,5.63,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+66456,MISTRATÓ,Malaria,1.3759931024552206,5.09,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+66572,PUEBLO RICO,Malaria,13.95434664029546,8.82,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 13.95 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.8/10).
+66687,SANTUARIO,Malaria,1.1290922191105794,5.03,Medio,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+68001,BUCARAMANGA,Dengue,6.783891298949603,3.49,Bajo,ALTO,Municipio en ALTO: se prevén 6.78 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (3.5/10).
+68079,BARICHARA,Dengue,1.44483301222167,5.66,Medio,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+68081,BARRANCABERMEJA,Dengue,3.207175604408661,3.71,Bajo,MEDIO,Municipio en MEDIO: se prevén 3.21 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.7/10).
+68081,BARRANCABERMEJA,Malaria,1.1359100408465723,3.71,Bajo,BAJO,Municipio en BAJO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+68147,CAPITANEJO,Dengue,1.7164025873846571,7.46,Alto,MEDIO,Municipio en MEDIO: se prevén 1.72 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+68190,CIMITARRA,Dengue,1.7809561242988834,5.52,Medio,BAJO,Municipio en BAJO: se prevén 1.78 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+68190,CIMITARRA,Malaria,1.284318764922558,5.52,Medio,BAJO,Municipio en BAJO: se prevén 1.28 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+68209,CONFINES,Dengue,1.1526696690753813,6.08,Medio,BAJO,Municipio en BAJO: se prevén 1.15 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+68211,CONTRATACIÓN,Dengue,1.250109466022999,6.22,Medio,BAJO,Municipio en BAJO: se prevén 1.25 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+68217,COROMORO,Dengue,1.173319368496057,4.52,Bajo,BAJO,Municipio en BAJO: se prevén 1.17 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.5/10).
+68229,CURITÍ,Dengue,1.544865836409162,4.35,Bajo,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+68235,EL CARMEN DE CHUCURÍ,Dengue,1.4566069822965195,5.78,Medio,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+68255,EL PLAYÓN,Dengue,1.4804082143026331,6.48,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+68276,FLORIDABLANCA,Dengue,1.9626607797981963,3.48,Bajo,MEDIO,Municipio en MEDIO: se prevén 1.96 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.5/10).
+68307,GIRÓN,Dengue,1.7391827492112726,4.65,Medio,BAJO,Municipio en BAJO: se prevén 1.74 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+68322,GUAPOTÁ,Dengue,1.3851826144636248,7.25,Alto,MEDIO,Municipio en MEDIO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+68385,LANDÁZURI,Dengue,1.4871000900354376,6.03,Medio,BAJO,Municipio en BAJO: se prevén 1.49 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+68406,LEBRIJA,Dengue,1.687354078913518,4.82,Medio,BAJO,Municipio en BAJO: se prevén 1.69 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+68418,LOS SANTOS,Dengue,1.3228165732220971,3.96,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+68432,MÁLAGA,Dengue,1.197465215796527,3.27,Bajo,BAJO,Municipio en BAJO: se prevén 1.20 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.3/10).
+68444,MATANZA,Dengue,1.3994269600422138,6.52,Alto,MEDIO,Municipio en MEDIO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+68464,MOGOTES,Dengue,1.3228729917871092,4.17,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+68500,OIBA,Dengue,1.3536564971756189,4.79,Medio,BAJO,Municipio en BAJO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+68533,PÁRAMO,Dengue,1.5766891869422883,6.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+68547,PIEDECUESTA,Dengue,1.702418316178565,3.98,Bajo,BAJO,Municipio en BAJO: se prevén 1.70 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+68549,PINCHOTE,Dengue,1.3007823253434148,5.65,Medio,BAJO,Municipio en BAJO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+68573,PUERTO PARRA,Dengue,1.4294633807015755,6.27,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.3/10).
+68575,PUERTO WILCHES,Dengue,1.32375729923627,3.54,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.5/10).
+68655,SABANA DE TORRES,Dengue,2.2312845018750225,7.08,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.23 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+68669,SAN ANDRÉS,Dengue,9.32745789897657,6.93,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 9.33 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (6.9/10).
+68673,SAN BENITO,Dengue,1.3341815513945106,6.1,Medio,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+68679,SAN GIL,Dengue,1.6900115773924576,4.01,Bajo,BAJO,Municipio en BAJO: se prevén 1.69 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+68686,SAN MIGUEL,Dengue,1.8033128364714812,7.28,Alto,MEDIO,Municipio en MEDIO: se prevén 1.80 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+68689,SAN VICENTE DE CHUCURÍ,Dengue,1.384032561524867,4.87,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+68720,SANTA HELENA DEL OPÓN,Dengue,1.3090315899173648,6.46,Alto,MEDIO,Municipio en MEDIO: se prevén 1.31 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+68745,SIMACOTA,Dengue,2.1250278647387697,6.02,Medio,ALTO,Municipio en ALTO: se prevén 2.13 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.0/10).
+68755,SOCORRO,Dengue,1.5306828711544926,6.98,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.0/10).
+68770,SUAITA,Dengue,1.3454746454004889,6.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.35 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+68780,SURATÁ,Dengue,1.4316867301715153,6.59,Alto,MEDIO,Municipio en MEDIO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.6/10).
+68855,VALLE DE SAN JOSÉ,Dengue,1.8106031025677949,6.9,Alto,MEDIO,Municipio en MEDIO: se prevén 1.81 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+68861,VÉLEZ,Dengue,1.427551870455746,4.07,Bajo,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+70001,SINCELEJO,Dengue,30.23599614531692,6.0,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 30.24 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (6.0/10).
+70001,SINCELEJO,Malaria,1.856057090794756,6.0,Medio,BAJO,Municipio en BAJO: se prevén 1.86 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+70124,CAIMITO,Dengue,1.4003229982793357,5.66,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.7/10).
+70204,COLOSÓ,Dengue,1.7352871035463382,7.27,Alto,MEDIO,Municipio en MEDIO: se prevén 1.74 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+70215,COROZAL,Dengue,5.529973394745654,5.62,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.53 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.6/10).
+70215,COROZAL,Malaria,1.114209275602362,5.62,Medio,BAJO,Municipio en BAJO: se prevén 1.11 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+70221,COVEÑAS,Dengue,2.080395488429252,6.7,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.08 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.7/10).
+70221,COVEÑAS,Malaria,1.1655006613145713,6.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+70230,CHALÁN,Dengue,1.440322074355206,6.89,Alto,MEDIO,Municipio en MEDIO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+70233,EL ROBLE,Dengue,1.29649895950718,5.92,Medio,BAJO,Municipio en BAJO: se prevén 1.30 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+70235,GALERAS,Dengue,1.3680156874233882,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+70265,GUARANDA,Dengue,1.4597161163940435,4.67,Medio,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+70265,GUARANDA,Malaria,1.3568291335233522,4.67,Medio,BAJO,Municipio en BAJO: se prevén 1.36 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+70418,LOS PALMITOS,Dengue,2.283246287899904,6.51,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.28 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.5/10).
+70429,MAJAGUAL,Dengue,1.6103766414867469,4.26,Bajo,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+70429,MAJAGUAL,Malaria,1.1780108616617495,4.26,Bajo,BAJO,Municipio en BAJO: se prevén 1.18 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+70473,MORROA,Dengue,2.080018686338466,6.2,Medio,ALTO,Municipio en ALTO: se prevén 2.08 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.2/10).
+70508,OVEJAS,Dengue,1.5199388561124647,6.2,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+70508,OVEJAS,Malaria,1.1739225001196014,6.2,Medio,BAJO,Municipio en BAJO: se prevén 1.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+70523,PALMITO,Dengue,1.5752579172656045,5.97,Medio,BAJO,Municipio en BAJO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+70523,PALMITO,Malaria,1.2684927915365454,5.97,Medio,BAJO,Municipio en BAJO: se prevén 1.27 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (6.0/10).
+70670,SAMPUÉS,Dengue,3.078999597785685,5.72,Medio,ALTO,Municipio en ALTO: se prevén 3.08 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.7/10).
+70678,SAN BENITO ABAD,Dengue,1.3445632682870738,4.75,Medio,BAJO,Municipio en BAJO: se prevén 1.34 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.8/10).
+70702,SAN JUAN DE BETULIA,Dengue,1.480890978091309,6.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+70702,SAN JUAN DE BETULIA,Malaria,1.1316914210756788,6.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+70708,SAN MARCOS,Dengue,2.6249138942196364,5.15,Medio,ALTO,Municipio en ALTO: se prevén 2.62 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.2/10).
+70713,SAN ONOFRE,Dengue,2.5070835880168736,4.34,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.51 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.3/10).
+70717,SAN PEDRO,Dengue,1.4952784378159485,6.55,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+70742,SAN LUIS DE SINCÉ,Dengue,1.631113162481979,6.15,Medio,BAJO,Municipio en BAJO: se prevén 1.63 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+70820,SANTIAGO DE TOLÚ,Dengue,1.4039545672904228,4.65,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+70823,SAN JOSÉ DE TOLUVIEJO,Dengue,1.8383423296790824,6.49,Alto,MEDIO,Municipio en MEDIO: se prevén 1.84 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+73001,IBAGUÉ,Dengue,3.3628509116789616,5.39,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 3.36 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.4/10).
+73026,ALVARADO,Dengue,1.5704091862257117,7.66,Alto,MEDIO,Municipio en MEDIO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+73030,AMBALEMA,Dengue,1.3782594256564908,6.09,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+73043,ANZOÁTEGUI,Dengue,1.3164741597465293,4.06,Bajo,BAJO,Municipio en BAJO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+73055,ARMERO,Dengue,1.5343129910506343,7.74,Alto,MEDIO,Municipio en MEDIO: se prevén 1.53 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+73067,ATACO,Dengue,1.9298194379117095,6.76,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.93 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.8/10).
+73124,CAJAMARCA,Dengue,1.3290389277684893,3.69,Bajo,BAJO,Municipio en BAJO: se prevén 1.33 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.7/10).
+73148,CARMEN DE APICALÁ,Dengue,1.5995970695617734,6.45,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+73152,CASABIANCA,Dengue,1.4806841982112129,6.2,Medio,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+73168,CHAPARRAL,Dengue,1.8189719804981743,7.07,Alto,MEDIO,Municipio en MEDIO: se prevén 1.82 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+73200,COELLO,Dengue,1.393025668010437,6.39,Alto,MEDIO,Municipio en MEDIO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+73217,COYAIMA,Dengue,1.7868351355660872,5.49,Medio,BAJO,Municipio en BAJO: se prevén 1.79 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+73226,CUNDAY,Dengue,1.2890384613601045,6.53,Alto,MEDIO,Municipio en MEDIO: se prevén 1.29 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+73236,DOLORES,Dengue,1.6066769380731074,5.23,Medio,BAJO,Municipio en BAJO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.2/10).
+73268,ESPINAL,Dengue,3.410594939669541,7.67,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.41 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.7/10).
+73270,FALAN,Dengue,1.4665981931139016,6.78,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+73275,FLANDES,Dengue,1.5638207620664044,6.51,Alto,MEDIO,Municipio en MEDIO: se prevén 1.56 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+73283,FRESNO,Dengue,1.6011891055627587,6.28,Alto,MEDIO,Municipio en MEDIO: se prevén 1.60 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+73319,GUAMO,Dengue,1.8402442898304716,7.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.84 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+73349,HONDA,Dengue,2.4971341793297697,6.26,Medio,ALTO,Municipio en ALTO: se prevén 2.50 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.3/10).
+73352,ICONONZO,Dengue,1.4140711314000716,5.34,Medio,BAJO,Municipio en BAJO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+73408,LÉRIDA,Dengue,1.5703871557509514,7.31,Alto,MEDIO,Municipio en MEDIO: se prevén 1.57 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.3/10).
+73411,LÍBANO,Dengue,1.5632222311117432,4.95,Medio,BAJO,Municipio en BAJO: se prevén 1.56 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+73443,SAN SEBASTIÁN DE MARIQUITA,Dengue,1.5032078112394291,7.55,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+73449,MELGAR,Dengue,2.9462437993511794,6.17,Medio,ALTO,Municipio en ALTO: se prevén 2.95 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (6.2/10).
+73483,NATAGAIMA,Dengue,1.3802427886781352,4.72,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+73504,ORTEGA,Dengue,1.9155056958521717,6.88,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.92 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.9/10).
+73520,PALOCABILDO,Dengue,1.679877391438331,6.67,Alto,MEDIO,Municipio en MEDIO: se prevén 1.68 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+73547,PIEDRAS,Dengue,1.455637120552009,7.54,Alto,MEDIO,Municipio en MEDIO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+73555,PLANADAS,Dengue,1.652174039376034,5.83,Medio,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+73563,PRADO,Dengue,1.4136139999086597,6.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+73585,PURIFICACIÓN,Dengue,1.6507431846546252,6.2,Medio,BAJO,Municipio en BAJO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+73616,RIOBLANCO,Dengue,1.665960549400206,6.76,Alto,MEDIO,Municipio en MEDIO: se prevén 1.67 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.8/10).
+73624,ROVIRA,Dengue,1.8726863069841349,6.37,Alto,MEDIO,Municipio en MEDIO: se prevén 1.87 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+73671,SALDAÑA,Dengue,2.301985143636012,8.06,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.30 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.1/10).
+73675,SAN ANTONIO,Dengue,2.717194932315007,6.44,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.72 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.4/10).
+73686,SANTA ISABEL,Dengue,1.2021351317833,5.27,Medio,BAJO,Municipio en BAJO: se prevén 1.20 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+73854,VALLE DE SAN JUAN,Dengue,1.6500548082236564,7.58,Alto,MEDIO,Municipio en MEDIO: se prevén 1.65 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+73861,VENADILLO,Dengue,1.475585405465258,5.05,Medio,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+76001,SANTIAGO DE CALI,Dengue,92.8333519630122,4.58,Bajo,ALTO,Municipio en ALTO: se prevén 92.83 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.6/10).
+76001,SANTIAGO DE CALI,Malaria,2.167058925035201,4.58,Bajo,BAJO,Municipio en BAJO: se prevén 2.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.6/10).
+76020,ALCALÁ,Dengue,1.2587935763008131,4.07,Bajo,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.1/10).
+76036,ANDALUCÍA,Dengue,1.4583307256931937,5.29,Medio,BAJO,Municipio en BAJO: se prevén 1.46 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.3/10).
+76041,ANSERMANUEVO,Dengue,1.264727880490892,5.02,Medio,BAJO,Municipio en BAJO: se prevén 1.26 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+76109,BUENAVENTURA,Dengue,6.567063192028675,4.6,Bajo,ALTO,Municipio en ALTO: se prevén 6.57 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.6/10).
+76109,BUENAVENTURA,Malaria,17.351765736496716,4.6,Bajo,ALTO,Municipio en ALTO: se prevén 17.35 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad baja (4.6/10).
+76111,GUADALAJARA DE BUGA,Dengue,1.8039215853868047,5.42,Medio,BAJO,Municipio en BAJO: se prevén 1.80 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.4/10).
+76113,BUGALAGRANDE,Dengue,1.4300927114618085,5.82,Medio,BAJO,Municipio en BAJO: se prevén 1.43 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+76122,CAICEDONIA,Dengue,1.4214331499581565,4.86,Medio,BAJO,Municipio en BAJO: se prevén 1.42 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+76147,CARTAGO,Dengue,2.08473727903992,4.61,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.08 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (4.6/10).
+76147,CARTAGO,Malaria,1.1835277684454502,4.61,Bajo,BAJO,Municipio en BAJO: se prevén 1.18 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.6/10).
+76233,DAGUA,Dengue,1.888065379294348,5.07,Medio,ALTO,Municipio en ALTO: se prevén 1.89 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.1/10).
+76233,DAGUA,Malaria,1.6949109399852338,5.07,Medio,BAJO,Municipio en BAJO: se prevén 1.69 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+76248,EL CERRITO,Dengue,1.4381412982114217,3.92,Bajo,BAJO,Municipio en BAJO: se prevén 1.44 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (3.9/10).
+76250,EL DOVIO,Dengue,1.2149514990560295,4.99,Medio,BAJO,Municipio en BAJO: se prevén 1.21 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+76275,FLORIDA,Dengue,5.257183566468992,5.57,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 5.26 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.6/10).
+76275,FLORIDA,Malaria,1.3324388292973004,5.57,Medio,BAJO,Municipio en BAJO: se prevén 1.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.6/10).
+76306,GINEBRA,Dengue,1.4529969223371846,4.35,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.3/10).
+76318,GUACARÍ,Dengue,1.521079967993415,4.74,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+76364,JAMUNDÍ,Dengue,4.228506433824929,4.05,Bajo,ALTO,Municipio en ALTO: se prevén 4.23 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad baja (4.0/10).
+76364,JAMUNDÍ,Malaria,1.1887017059927256,4.05,Bajo,BAJO,Municipio en BAJO: se prevén 1.19 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.0/10).
+76377,LA CUMBRE,Dengue,1.280232891339216,4.38,Bajo,BAJO,Municipio en BAJO: se prevén 1.28 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.4/10).
+76497,OBANDO,Dengue,1.4661830269432703,7.19,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+76520,PALMIRA,Dengue,2.998322005173194,3.15,Bajo,MEDIO,Municipio en MEDIO: se prevén 3.00 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.1/10).
+76520,PALMIRA,Malaria,1.2122088749696962,3.15,Bajo,BAJO,Municipio en BAJO: se prevén 1.21 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.1/10).
+76563,PRADERA,Dengue,1.4499009764858486,4.18,Bajo,BAJO,Municipio en BAJO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+76616,RIOFRÍO,Dengue,2.398187179086558,5.87,Medio,ALTO,Municipio en ALTO: se prevén 2.40 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad media (5.9/10).
+76622,ROLDANILLO,Dengue,1.5371743270589135,5.78,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+76736,SEVILLA,Dengue,1.5204040907423906,4.2,Bajo,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+76736,SEVILLA,Malaria,1.3140247532930207,4.2,Bajo,BAJO,Municipio en BAJO: se prevén 1.31 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (4.2/10).
+76823,TORO,Dengue,1.386202657146283,4.9,Medio,BAJO,Municipio en BAJO: se prevén 1.39 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.9/10).
+76828,TRUJILLO,Dengue,1.4785724424224052,5.52,Medio,BAJO,Municipio en BAJO: se prevén 1.48 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.5/10).
+76834,TULUÁ,Dengue,2.422951625090651,3.22,Bajo,MEDIO,Municipio en MEDIO: se prevén 2.42 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad baja (3.2/10).
+76834,TULUÁ,Malaria,1.2236770304606246,3.22,Bajo,BAJO,Municipio en BAJO: se prevén 1.22 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad baja (3.2/10).
+76845,ULLOA,Dengue,1.189671617892511,6.3,Alto,MEDIO,Municipio en MEDIO: se prevén 1.19 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.3/10).
+76863,VERSALLES,Dengue,1.1923302992761,5.82,Medio,BAJO,Municipio en BAJO: se prevén 1.19 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+76869,VIJES,Dengue,1.3762772911858274,6.21,Medio,BAJO,Municipio en BAJO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.2/10).
+76890,YOTOCO,Dengue,1.554141113318666,5.83,Medio,BAJO,Municipio en BAJO: se prevén 1.55 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+76892,YUMBO,Dengue,7.775700948694675,5.04,Medio,CRÍTICO,Municipio en CRÍTICO: se prevén 7.78 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad media (5.0/10).
+76895,ZARZAL,Dengue,1.5209234888352725,5.1,Medio,BAJO,Municipio en BAJO: se prevén 1.52 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.1/10).
+81001,ARAUCA,Dengue,1.563820422383476,5.76,Medio,BAJO,Municipio en BAJO: se prevén 1.56 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+81001,ARAUCA,Malaria,1.205592918430907,5.76,Medio,BAJO,Municipio en BAJO: se prevén 1.21 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.8/10).
+81065,ARAUQUITA,Dengue,1.9033279010771784,6.72,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 1.90 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.7/10).
+81065,ARAUQUITA,Malaria,1.522680451349923,6.72,Alto,MEDIO,Municipio en MEDIO: se prevén 1.52 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.7/10).
+81220,CRAVO NORTE,Dengue,1.27029873425378,6.91,Alto,MEDIO,Municipio en MEDIO: se prevén 1.27 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+81300,FORTUL,Dengue,1.3656261571218913,6.07,Medio,BAJO,Municipio en BAJO: se prevén 1.37 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (6.1/10).
+81736,SARAVENA,Dengue,3.3447257963288823,7.09,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.34 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.1/10).
+81736,SARAVENA,Malaria,1.2839048318009834,7.09,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+81794,TAME,Dengue,1.7360729009622395,5.92,Medio,BAJO,Municipio en BAJO: se prevén 1.74 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+81794,TAME,Malaria,1.1745384566811237,5.92,Medio,BAJO,Municipio en BAJO: se prevén 1.17 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+85001,YOPAL,Dengue,29.33226705605516,7.54,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 29.33 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.5/10).
+85010,AGUAZUL,Dengue,5.168398358941943,8.17,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.17 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (8.2/10).
+85015,CHÁMEZA,Dengue,1.7930187994884812,8.41,Alto,MEDIO,Municipio en MEDIO: se prevén 1.79 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.4/10).
+85125,HATO COROZAL,Dengue,1.454461125155512,6.53,Alto,MEDIO,Municipio en MEDIO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+85125,HATO COROZAL,Malaria,1.6078362099601269,6.53,Alto,MEDIO,Municipio en MEDIO: se prevén 1.61 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.5/10).
+85139,MANÍ,Dengue,1.446743010538082,8.13,Alto,MEDIO,Municipio en MEDIO: se prevén 1.45 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.1/10).
+85162,MONTERREY,Dengue,2.474324252576793,7.63,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.47 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.6/10).
+85225,NUNCHÍA,Dengue,1.7045567495943543,7.69,Alto,MEDIO,Municipio en MEDIO: se prevén 1.70 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+85230,OROCUÉ,Dengue,2.5522479910807734,7.14,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.55 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+85250,PAZ DE ARIPORO,Dengue,3.345009209494344,7.7,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 3.35 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (7.7/10).
+85250,PAZ DE ARIPORO,Malaria,2.049099819814129,7.7,Alto,MEDIO,Municipio en MEDIO: se prevén 2.05 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+85263,PORE,Dengue,1.740226539797169,8.21,Alto,MEDIO,Municipio en MEDIO: se prevén 1.74 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.2/10).
+85325,SAN LUIS DE PALENQUE,Dengue,2.266189468478558,8.3,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.27 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.3/10).
+85400,TÁMARA,Dengue,1.3758232684767773,7.56,Alto,MEDIO,Municipio en MEDIO: se prevén 1.38 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+85410,TAURAMENA,Dengue,1.5829548205298298,7.99,Alto,MEDIO,Municipio en MEDIO: se prevén 1.58 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+85430,TRINIDAD,Dengue,1.837140787281796,8.03,Alto,MEDIO,Municipio en MEDIO: se prevén 1.84 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+86001,MOCOA,Dengue,1.5353850793718644,4.71,Medio,BAJO,Municipio en BAJO: se prevén 1.54 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+86001,MOCOA,Malaria,1.1367541049565069,4.71,Medio,BAJO,Municipio en BAJO: se prevén 1.14 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (4.7/10).
+86320,ORITO,Dengue,1.752836334461063,6.36,Alto,MEDIO,Municipio en MEDIO: se prevén 1.75 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+86320,ORITO,Malaria,1.2778738819702102,6.36,Alto,MEDIO,Municipio en MEDIO: se prevén 1.28 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.4/10).
+86568,PUERTO ASÍS,Dengue,1.780276239270126,5.0,Medio,BAJO,Municipio en BAJO: se prevén 1.78 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+86568,PUERTO ASÍS,Malaria,1.3132887159256064,5.0,Medio,BAJO,Municipio en BAJO: se prevén 1.31 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+86569,PUERTO CAICEDO,Dengue,2.839721906049986,6.48,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.84 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (6.5/10).
+86571,PUERTO GUZMÁN,Dengue,1.4038130019914723,5.03,Medio,BAJO,Municipio en BAJO: se prevén 1.40 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+86573,PUERTO LEGUÍZAMO,Dengue,2.349419277626931,7.07,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.35 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.1/10).
+86573,PUERTO LEGUÍZAMO,Malaria,1.2340494242105184,7.07,Alto,MEDIO,Municipio en MEDIO: se prevén 1.23 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+86865,VALLE DEL GUAMUEZ,Dengue,1.7843969916412423,4.99,Medio,BAJO,Municipio en BAJO: se prevén 1.78 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.0/10).
+86885,VILLAGARZÓN,Dengue,2.8116848924514484,7.25,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.81 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (7.2/10).
+91001,LETICIA,Dengue,8.494023636726936,8.03,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 8.49 casos de Dengue (predicción Alta) y la zona tiene vulnerabilidad alta (8.0/10).
+91001,LETICIA,Malaria,1.364849603978972,8.03,Alto,MEDIO,Municipio en MEDIO: se prevén 1.36 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+91405,LA CHORRERA,Malaria,1.1896699406868063,6.9,Alto,MEDIO,Municipio en MEDIO: se prevén 1.19 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+91407,LA PEDRERA,Dengue,2.558501106977712,8.15,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 2.56 casos de Dengue (predicción Media) y la zona tiene vulnerabilidad alta (8.2/10).
+91407,LA PEDRERA,Malaria,35.34541469547356,8.15,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 35.35 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.2/10).
+91536,PUERTO ARICA,Malaria,2.469170911907704,7.88,Alto,MEDIO,Municipio en MEDIO: se prevén 2.47 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.9/10).
+91540,PUERTO NARIÑO,Dengue,1.321527632084961,8.04,Alto,MEDIO,Municipio en MEDIO: se prevén 1.32 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+91540,PUERTO NARIÑO,Malaria,2.9411726157731923,8.04,Alto,MEDIO,Municipio en MEDIO: se prevén 2.94 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+91798,TARAPACÁ,Malaria,15.343497156434124,8.05,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 15.34 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.1/10).
+94001,INÍRIDA,Dengue,1.613814723484901,8.9,Alto,MEDIO,Municipio en MEDIO: se prevén 1.61 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.9/10).
+94001,INÍRIDA,Malaria,48.96605583053972,8.9,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 48.97 casos de Malaria (predicción Alta) y la zona tiene vulnerabilidad alta (8.9/10).
+94883,SAN FELIPE,Malaria,1.334059037234053,7.7,Alto,MEDIO,Municipio en MEDIO: se prevén 1.33 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+94885,LA GUADALUPE,Malaria,1.2603036118682351,7.95,Alto,MEDIO,Municipio en MEDIO: se prevén 1.26 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+94886,CACAHUAL,Malaria,1.472037417726276,7.71,Alto,MEDIO,Municipio en MEDIO: se prevén 1.47 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.7/10).
+94887,PANA PANA,Malaria,1.191334607643974,6.89,Alto,MEDIO,Municipio en MEDIO: se prevén 1.19 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+94888,MORICHAL,Malaria,1.3441906088032622,7.58,Alto,MEDIO,Municipio en MEDIO: se prevén 1.34 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.6/10).
+95001,SAN JOSÉ DEL GUAVIARE,Dengue,1.620731791393469,7.2,Alto,MEDIO,Municipio en MEDIO: se prevén 1.62 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+95001,SAN JOSÉ DEL GUAVIARE,Malaria,9.014028830649638,7.2,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 9.01 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (7.2/10).
+95025,EL RETORNO,Dengue,1.5897388812478137,7.49,Alto,MEDIO,Municipio en MEDIO: se prevén 1.59 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+95025,EL RETORNO,Malaria,3.0005769772849917,7.49,Alto,MEDIO,Municipio en MEDIO: se prevén 3.00 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.5/10).
+97001,MITÚ,Dengue,1.6166280634888397,7.17,Alto,MEDIO,Municipio en MEDIO: se prevén 1.62 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+97001,MITÚ,Malaria,1.5908888005459252,7.17,Alto,MEDIO,Municipio en MEDIO: se prevén 1.59 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.2/10).
+97511,PACOA,Malaria,1.3124338843364218,7.1,Alto,MEDIO,Municipio en MEDIO: se prevén 1.31 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.1/10).
+97666,TARAIRA,Malaria,3.563240241854549,8.0,Alto,MEDIO,Municipio en MEDIO: se prevén 3.56 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (8.0/10).
+97889,YAVARATÉ,Malaria,1.1989131848865855,7.8,Alto,MEDIO,Municipio en MEDIO: se prevén 1.20 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (7.8/10).
+99001,PUERTO CARREÑO,Dengue,1.7881823463155055,8.29,Alto,MEDIO,Municipio en MEDIO: se prevén 1.79 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.3/10).
+99001,PUERTO CARREÑO,Malaria,5.024117816119516,8.29,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 5.02 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.3/10).
+99524,LA PRIMAVERA,Dengue,1.661963710632016,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.66 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+99524,LA PRIMAVERA,Malaria,1.126657193233385,5.93,Medio,BAJO,Municipio en BAJO: se prevén 1.13 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad media (5.9/10).
+99624,SANTA ROSALÍA,Dengue,1.4099345191726798,6.94,Alto,MEDIO,Municipio en MEDIO: se prevén 1.41 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+99624,SANTA ROSALÍA,Malaria,1.1480639483764747,6.94,Alto,MEDIO,Municipio en MEDIO: se prevén 1.15 casos de Malaria (predicción Baja) y la zona tiene vulnerabilidad alta (6.9/10).
+99773,CUMARIBO,Dengue,1.5039152103548037,8.09,Alto,MEDIO,Municipio en MEDIO: se prevén 1.50 casos de Dengue (predicción Baja) y la zona tiene vulnerabilidad alta (8.1/10).
+99773,CUMARIBO,Malaria,10.753947148820671,8.09,Alto,CRÍTICO,Municipio en CRÍTICO: se prevén 10.75 casos de Malaria (predicción Media) y la zona tiene vulnerabilidad alta (8.1/10).
