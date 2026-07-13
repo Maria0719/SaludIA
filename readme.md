@@ -229,4 +229,4 @@ En conjunto, estas líneas apuntan a un mismo objetivo: pasar de una herramienta
 
 **Reto:** Salud y Bienestar — Competencia de Inteligencia Artificial.
 
-Para la documentación técnica detallada del código (archivo por archivo, cómo funciona cada parte por dentro), ver **DOCUMENTACION_TECNICA.md**.
+Para la documentación técnica detallada del código (archivo por archivo, cómo funciona cada parte por dentro), ver **DOCUMENTACION_TECNICA.md**. En las ramas creadas esta el proceso de como se fue desarrolland todo, siendo la rama "docker" la que tiene la útima versión actualiazada y final"
