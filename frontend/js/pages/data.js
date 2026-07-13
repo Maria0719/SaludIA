@@ -57,7 +57,7 @@ root.innerHTML = `
 
   <div class="card stack" style="min-height:0">
 
-    <div class="table-wrap">
+    <div class="table-wrap table-wrap--scrollhint">
       <table class="data-table" style="white-space:nowrap">
         <thead>
           <tr>

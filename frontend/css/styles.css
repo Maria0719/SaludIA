@@ -151,6 +151,17 @@ img {
   height: 100%;
   overflow-x: auto;
   overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+/* Con justify-content:flex-end, el contenido que se desborda queda del lado
+   izquierdo (antes del origen del scroll) y ningún navegador permite deslizar
+   hasta ahí — por eso en pantallas angostas la mayoría de los links del nav
+   quedaban inalcanzables. Debajo de 1024px se alinean al inicio para que el
+   desbordamiento (y el scroll táctil) queden del lado derecho, que sí funciona. */
+@media (max-width: 1024px) {
+  .nav__scroll {
+    justify-content: flex-start;
+  }
 }
 .nav__list {
   display: flex;
@@ -404,6 +415,23 @@ input[type="range"] {
 /* ---------- Tables ---------- */
 .table-wrap {
   overflow-x: auto;
+}
+/* En pantallas angostas la tabla se ve "cortada" sin ninguna pista de que se
+   puede deslizar horizontalmente para ver las columnas restantes. */
+@media (max-width: 640px) {
+  .table-wrap--scrollhint {
+    position: relative;
+  }
+  .table-wrap--scrollhint::before {
+    content: "◄ Desliza para ver más columnas ►";
+    display: block;
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--text-soft);
+    padding: 6px 0;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border-soft);
+  }
 }
 table.data-table {
   width: 100%;
