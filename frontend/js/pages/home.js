@@ -5,7 +5,7 @@ import { getMunicipios } from "../api.js";
 renderLayout();
 
 const municipios = await getMunicipios();
-const departamentos = new Set(municipios.map((m) => m.dpto)).size;
+const departamentos = 32;
 
 const shortcuts = [
   { title: "Predicción", desc: "Estimación de riesgo a 1 semana de anticipación.", ic: "activity", path: "prediction.html" },
